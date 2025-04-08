@@ -7,7 +7,7 @@ from pyproj import Transformer
 # 1. Load both datasets
 # -----------------------------
 df_coords = pd.read_csv("data/agulles_with_region.csv")
-df_desc = pd.read_csv("data/agulles_name_description.csv")
+df_desc = pd.read_csv("data/agulles_full_data_from_description_pages.csv")
 
 # -----------------------------
 # 2. Merge by Name
