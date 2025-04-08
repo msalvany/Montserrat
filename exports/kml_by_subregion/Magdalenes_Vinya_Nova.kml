@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2195">
+        <Style id="2198">
+            <IconStyle id="2199">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2200">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2201">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2204">
+            <IconStyle id="2205">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2206">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2207">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2210">
+            <IconStyle id="2211">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2212">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2213">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2216">
+            <IconStyle id="2217">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2218">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2219">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2222">
+            <IconStyle id="2223">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2224">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2225">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2228">
+            <IconStyle id="2229">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2230">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2231">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2234">
+            <IconStyle id="2235">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2236">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2237">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2240">
+            <IconStyle id="2241">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2242">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2243">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2246">
+            <IconStyle id="2247">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2248">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2249">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2252">
+            <IconStyle id="2253">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2254">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2255">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2258">
+            <IconStyle id="2259">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2260">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2261">
+                <color>ffa8a8ef</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="2197">
+            <name>Agulla dels Flamencs</name>
+            <description>A la part nord d’aquesta secció existeixen varis torrents que baixen entre els serrats dels Tudons i el de Sajolida i, principalment, entre aquest i el de les Paparres. A l’alçada de la confluència dels torrents dels Bugaders i el de Sajolida, entre els dos torrents, es troba una petita carena formades per unes poques roques. A l’altra banda del torrent de Sajolida, el seu marge esquerra, hi una altra petita carena que comença en el coll que en aquest indret fa el camí del Pont i la cruïlla del camí del Clot de Sajolida. L’agulla dels Flamencs està a continuació de les primeres elevacions de la carena, la Roca Mala.</description>
+            <styleUrl>#2198</styleUrl>
+            <Point id="2196">
+                <coordinates>1.813414678181597,41.59217191440009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2203">
+            <name>Roca 384</name>
+            <description>Aquest roca es troba sota de la roca del Castellet en direcció sud-est alineada amb aquesta i la roca Mala de la qual està separada pel torrent de Sajolida</description>
+            <styleUrl>#2204</styleUrl>
+            <Point id="2202">
+                <coordinates>1.81286441897948,41.59339119554117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2209">
+            <name>Roca de la Fabiola</name>
+            <description>A la part nord d’aquesta secció existeixen varis torrents que baixen entre els serrats dels Tudons i el de Sajolida i, principalment, entre aquest i el de les Paparres. A l’alçada de la confluència dels torrents dels Bugaders i el de Sajolida es troba una petita carena formades per unes poques roques. La roca de la Fabiola està a la meitat de carena, sota de la gran roca del Castellet i per damunt de les roques dels Bugaders.</description>
+            <styleUrl>#2210</styleUrl>
+            <Point id="2208">
+                <coordinates>1.812199409235493,41.59301503613912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2215">
+            <name>Roca del Castellet</name>
+            <description>A la part nord d’aquesta secció existeixen varis torrents que baixen entre els serrats dels Tudons i el de Sajolida i, principalment, entre aquest i el de les Paparres. A l’alçada de la confluència dels torrents dels Bugaders i el de Sajolida es troba una petita carena formades per unes poques roques. De totes elles, la roca del Castellet es troba al nord de la carena, sota la roca 384, i és la més voluminosa.</description>
+            <styleUrl>#2216</styleUrl>
+            <Point id="2214">
+                <coordinates>1.812555822659072,41.59320786682432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2221">
+            <name>Roca del Pi</name>
+            <description>A la part nord d’aquesta secció existeixen varis torrents que baixen entre els serrats dels Tudons i el de Sajolida i, principalment, entre aquest i el de les Paparres. A l’alçada de la confluència dels torrents dels Bugaders i el de Sajolida, entre els dos torrents, es troba una petita carena formades per unes poques roques. A l’altra banda del torrent de Sajolida, el seu marge esquerra, hi una altra petita carena que comença en el coll que en aquest indret fa el camí del Pont i la cruïlla del camí del Clot de Sajolida. L’agulla dels Flamencs està a continuació de les primeres elevacions de la carena, la Roca Mala.</description>
+            <styleUrl>#2222</styleUrl>
+            <Point id="2220">
+                <coordinates>1.813513283697876,41.592028818938765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2227">
+            <name>Roca del Truc</name>
+            <description>Seguint la carena que puja des de la Vinya Nova es troba aquesta petita agulla que té forma d’aresta</description>
+            <styleUrl>#2228</styleUrl>
+            <Point id="2226">
+                <coordinates>1.811300896730944,41.587709586695865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2233">
+            <name>Roca Mala – I</name>
+            <styleUrl>#2234</styleUrl>
+            <Point id="2232">
+                <coordinates>1.81369449823338,41.59261614908248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2239">
+            <name>Roca Mala – II</name>
+            <styleUrl>#2240</styleUrl>
+            <Point id="2238">
+                <coordinates>1.813518022850748,41.592425179206685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2245">
+            <name>Roca Tormes</name>
+            <description>A la part nord d’aquesta secció existeixen varis torrents que baixen entre els serrats dels Tudons i el de Sajolida i, principalment, entre aquest i el de les Paparres. A l’alçada de la confluència dels torrents dels Bugaders i el de Sajolida, entre els dos torrents, es troba una petita carena formades per unes poques roques. A l’altra banda del torrent de Sajolida, el seu marge esquerra, hi una altra petita carena que comença en el coll que en aquest indret fa el camí del Pont i la cruïlla del camí del Clot de Sajolida. La darrera roca d’aquesta carena és la Roca Tormes.</description>
+            <styleUrl>#2246</styleUrl>
+            <Point id="2244">
+                <coordinates>1.813313643614028,41.59179257426484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2251">
+            <name>Roques dels Bugaders – II</name>
+            <styleUrl>#2252</styleUrl>
+            <Point id="2250">
+                <coordinates>1.811835296193404,41.59258794082081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2257">
+            <name>Roques dels Bugaders  – I</name>
+            <styleUrl>#2258</styleUrl>
+            <Point id="2256">
+                <coordinates>1.811963122627602,41.59281443880312,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

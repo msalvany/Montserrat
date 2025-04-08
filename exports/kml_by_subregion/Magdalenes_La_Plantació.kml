@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1807">
+        <Style id="1810">
+            <IconStyle id="1811">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1812">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1813">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1816">
+            <IconStyle id="1817">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1818">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1819">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1822">
+            <IconStyle id="1823">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1824">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1825">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1828">
+            <IconStyle id="1829">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1830">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1831">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1834">
+            <IconStyle id="1835">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1836">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1837">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1840">
+            <IconStyle id="1841">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1842">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1843">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1846">
+            <IconStyle id="1847">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1848">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1849">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1852">
+            <IconStyle id="1853">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1854">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1855">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1858">
+            <IconStyle id="1859">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1860">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1861">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1864">
+            <IconStyle id="1865">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1866">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1867">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1870">
+            <IconStyle id="1871">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1872">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1873">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1876">
+            <IconStyle id="1877">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1878">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1879">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1882">
+            <IconStyle id="1883">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1884">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1885">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1888">
+            <IconStyle id="1889">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1890">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1891">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1894">
+            <IconStyle id="1895">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1896">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1897">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1900">
+            <IconStyle id="1901">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1902">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1903">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1906">
+            <IconStyle id="1907">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1908">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1909">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1912">
+            <IconStyle id="1913">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1914">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1915">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1918">
+            <IconStyle id="1919">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1920">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1921">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1924">
+            <IconStyle id="1925">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1926">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1927">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1930">
+            <IconStyle id="1931">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1932">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1933">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1936">
+            <IconStyle id="1937">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1938">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1939">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1942">
+            <IconStyle id="1943">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1944">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1945">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1948">
+            <IconStyle id="1949">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1950">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1951">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1954">
+            <IconStyle id="1955">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1956">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1957">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1960">
+            <IconStyle id="1961">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1962">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1963">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1966">
+            <IconStyle id="1967">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1968">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1969">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1972">
+            <IconStyle id="1973">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1974">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1975">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1978">
+            <IconStyle id="1979">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1980">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1981">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1984">
+            <IconStyle id="1985">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1986">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1987">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1990">
+            <IconStyle id="1991">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1992">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1993">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1996">
+            <IconStyle id="1997">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1998">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1999">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2002">
+            <IconStyle id="2003">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2004">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2005">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2008">
+            <IconStyle id="2009">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2010">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2011">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2014">
+            <IconStyle id="2015">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2016">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2017">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2020">
+            <IconStyle id="2021">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2022">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2023">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2026">
+            <IconStyle id="2027">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2028">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2029">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2032">
+            <IconStyle id="2033">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2034">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2035">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2038">
+            <IconStyle id="2039">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2040">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2041">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2044">
+            <IconStyle id="2045">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2046">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2047">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2050">
+            <IconStyle id="2051">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2052">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2053">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2056">
+            <IconStyle id="2057">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2058">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2059">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2062">
+            <IconStyle id="2063">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2064">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2065">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2068">
+            <IconStyle id="2069">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2070">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2071">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2074">
+            <IconStyle id="2075">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2076">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2077">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2080">
+            <IconStyle id="2081">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2082">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2083">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2086">
+            <IconStyle id="2087">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2088">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2089">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2092">
+            <IconStyle id="2093">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2094">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2095">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2098">
+            <IconStyle id="2099">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2100">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2101">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2104">
+            <IconStyle id="2105">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2106">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2107">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2110">
+            <IconStyle id="2111">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2112">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2113">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2116">
+            <IconStyle id="2117">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2118">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2119">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2122">
+            <IconStyle id="2123">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2124">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2125">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2128">
+            <IconStyle id="2129">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2130">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2131">
+                <color>ff7d7ce7</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="1809">
+            <name>Agulla de la Plantació</name>
+            <description>És la cota més alta en la carena que puja des de l’Oblidada, El Porró i el Barretet. És una gran roca. Dóna al damunt del torrent de l’Artiga Alta.</description>
+            <styleUrl>#1810</styleUrl>
+            <Point id="1808">
+                <coordinates>1.821854035094515,41.58993488844501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1815">
+            <name>Agulla del Capdemunt</name>
+            <description>No està referenciada per Josep Barberà. És una agulla situada al damunt i a l’est de la Roca del Divendres Sant. També es coneix com l’agulla de Sobre el Divendres Sant.</description>
+            <styleUrl>#1816</styleUrl>
+            <Point id="1814">
+                <coordinates>1.821901319907351,41.58931388427392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1821">
+            <name>Agulla del Capdevall</name>
+            <description>Petita agulla situada a l'oest de la roca del Divendres Sant</description>
+            <styleUrl>#1822</styleUrl>
+            <Point id="1820">
+                <coordinates>1.821035524863211,41.58942210041956,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1827">
+            <name>Agulla del Meguí</name>
+            <description>Es una roca situada sota la cota 447 per la seva cara nord. Està molt definida perquè està separada de la resta d’agulles d’aquest indret. Està abocada al torrent de l’Artiga Alta. Forma part d’una petita carena que limita el nord de la Plantació.</description>
+            <styleUrl>#1828</styleUrl>
+            <Point id="1826">
+                <coordinates>1.822955327530334,41.59007226887505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1833">
+            <name>Agulla d’en Torres Homet</name>
+            <description>Aquesta agulla veïna de la Triple per la seva cara sud-oest. Està dedicada a un dels escaladors de referència de Montserrat.</description>
+            <styleUrl>#1834</styleUrl>
+            <Point id="1832">
+                <coordinates>1.82247267774898,41.58956292940261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1839">
+            <name>Agulla Jaume Mata</name>
+            <description>Roca en forma de gepa situada al damunt del torrent dels Llorers per la seva vessant dreta. A la base d’aquesta roca hi ha una pla on consta la dedicació del nom d’aquesta roca a un jove muntanyenc sancugatenc que perdé la vida a la serra del Cadi, anant a auxiliar a uns escaladors. Està englobada a les roques de la Processó dels Monjos. Hi ha una placa recordatori en la base de la cara est.</description>
+            <styleUrl>#1840</styleUrl>
+            <Point id="1838">
+                <coordinates>1.822970652580438,41.58856824270451,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1845">
+            <name>Agulleta de l’Esglai</name>
+            <description>Queda al sud de la roca del Divendres Sant. Enllaça les roques de la carena del Barretet amb les del Porro i Col·leccionistes.</description>
+            <styleUrl>#1846</styleUrl>
+            <Point id="1844">
+                <coordinates>1.821291523211892,41.5891995484467,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1851">
+            <name>Cota 416</name>
+            <description>Són tres roques que formen una curta cadena la peu de la Gorra Fríga. La cota 418 es troba al peu del caminet que contorneja la Gorra Frígia. És una roca petita i vertical, d’uns sis metres d’altura. Baixant la carena en direcció oest hom troba la cota 416, unida a la 418 pel coll. Per sota està al costat de la cota 417. Aquesta cota actualment es coneix amb el nom de Miranda del Sentinella.  La tercera cota és la que es troba més avall de la carena i que fa coll amb la cota 416.</description>
+            <styleUrl>#1852</styleUrl>
+            <Point id="1850">
+                <coordinates>1.824779296619565,41.590054901454494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1857">
+            <name>Cota 417 (Miranda del Sentinella)</name>
+            <description>Són tres roques que formen una curta cadena la peu de la Gorra Fríga. La cota 418 es troba al peu del caminet que contorneja la Gorra Frígia. És una roca petita i vertical, d’uns sis metres d’altura. Baixant la carena en direcció oest hom troba la cota 416, unida a la 418 pel coll. Per sota està al costat de la cota 417. Aquesta cota actualment es coneix amb el nom de Miranda del Sentinella.  La tercera cota és la que es troba més avall de la carena i que fa coll amb la cota 416.</description>
+            <styleUrl>#1858</styleUrl>
+            <Point id="1856">
+                <coordinates>1.824260221928069,41.590229735452574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1863">
+            <name>Cota 418</name>
+            <description>Són tres roques que formen una curta cadena la peu de la Gorra Fríga. La cota 418 es troba al peu del caminet que contorneja la Gorra Frígia. És una roca petita i vertical, d’uns sis metres d’altura. Baixant la carena en direcció oest hom troba la cota 416, unida a la 418 pel coll. Per sota està al costat de la cota 417. Aquesta cota actualment es coneix amb el nom de Miranda del Sentinella.  La tercera cota és la que es troba més avall de la carena i que fa coll amb la cota 416.</description>
+            <styleUrl>#1864</styleUrl>
+            <Point id="1862">
+                <coordinates>1.824879997244085,41.589794725432725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1869">
+            <name>Cota 419</name>
+            <description>Seguint el camí que passa al peu de la cota 418, es va a parar a la 419. Constitueix l’inici de la carena que descendeix cap a l’O. i en la qual es troben les roques de la Processó deis Monjos.</description>
+            <styleUrl>#1870</styleUrl>
+            <Point id="1868">
+                <coordinates>1.824687906706765,41.58980176878497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1875">
+            <name>Cota 420</name>
+            <description>Es una petita roca que resta unida a la 421</description>
+            <styleUrl>#1876</styleUrl>
+            <Point id="1874">
+                <coordinates>1.824329677326267,41.589708034924094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1881">
+            <name>Cota 424A</name>
+            <description>Petita agulla propera al torrent dels Llorers i veïna de la Mamella i de la Doble. A la seva vessant oest forma un petit collet amb la 433. Forma part també de la carena de la Processó dels Monjos En Josep Barberà indica que en el plànol d’en Semir no hi està indicada però si en el seu nomenclàtor.</description>
+            <styleUrl>#1882</styleUrl>
+            <Point id="1880">
+                <coordinates>1.823603782994495,41.588718836747894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1887">
+            <name>Cota 428</name>
+            <description>La roca de la Miranda de la Mamella està unida amb la Mamelleta, per un estret collet, a la vessant sud. Forma part del grup de la Processó dels Monjos.</description>
+            <styleUrl>#1888</styleUrl>
+            <Point id="1886">
+                <coordinates>1.823632797929845,41.58976395548348,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1893">
+            <name>Cota 429</name>
+            <description>Petita roca situada a la vessant nord-est de la Triple.</description>
+            <styleUrl>#1894</styleUrl>
+            <Point id="1892">
+                <coordinates>1.822840117479995,41.58980988377961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1899">
+            <name>Cota 433</name>
+            <description>Davallant per la carena de la Processó dels Monjos per sota de la Doble, fent coll amb la cota 424A i al capdamunt de l’agulla Jaume Mata.</description>
+            <styleUrl>#1900</styleUrl>
+            <Point id="1898">
+                <coordinates>1.823135641374756,41.5887320593901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1905">
+            <name>Cota 436 (Roca de Sant Martí)</name>
+            <description>Darrera roca per la part sud del que es coneix com la Processó dels Monjos. Està per sota de la roca de Sant Cugat (435) i fa coll amb ell. Actualment se la coneix com la Roca de Sant Martí. La seva cara esta està abocada al torrent dels Llorers.</description>
+            <styleUrl>#1906</styleUrl>
+            <Point id="1904">
+                <coordinates>1.822426892382527,41.588121326839705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1911">
+            <name>Cota 447</name>
+            <description>És una de les roques més al nord de la Plantació. Es veïna de la Megui, al nord, i de la cota 429 al sud. Es troba pràcticament abocada al barranc, capçalera del torrent de l’Artiga Alta, que la separa del Rava i la Campana.</description>
+            <styleUrl>#1912</styleUrl>
+            <Point id="1910">
+                <coordinates>1.822873649650111,41.58994533339117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1917">
+            <name>Cota 450</name>
+            <description>Son dues roques que es troben entre l’agulla Torres Homet (cota 449) i l’agulla de la Plantació. La cota 450 està al costat de l’agulla Torres Homet i la 451 al costat de l’agulla de la Plantació.</description>
+            <styleUrl>#1918</styleUrl>
+            <Point id="1916">
+                <coordinates>1.822145036739917,41.5897667358118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1923">
+            <name>Cota 451</name>
+            <description>Son dues roques que es troben entre l’agulla Torres Homet (cota 449) i l’agulla de la Plantació. La cota 450 està al costat de l’agulla Torres Homet i la 451 al costat de l’agulla de la Plantació.</description>
+            <styleUrl>#1924</styleUrl>
+            <Point id="1922">
+                <coordinates>1.822010794764454,41.58989145946653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1929">
+            <name>Cota 453</name>
+            <description>Es un petit serrat paral·lel al que es troba en la part superior de la Plantació que va des de l’agulla de la Plantació fins a la Torres Homet. La cota 455 està a l’oest del Barretet; la cota 454 està entre la 455 i la 453; i aquesta última està a l’oest de la Triple i sota de la Torres Homet.</description>
+            <styleUrl>#1930</styleUrl>
+            <Point id="1928">
+                <coordinates>1.822222084044889,41.58948830561541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1935">
+            <name>Cota 454</name>
+            <description>Es un petit serrat paral·lel al que es troba en la part superior de la Plantació que va des de l’agulla de la Plantació fins a la Torres Homet. La cota 455 està a l’oest del Barretet; la cota 454 està entre la 455 i la 453; i aquesta última està a l’oest de la Triple i sota de la Torres Homet.</description>
+            <styleUrl>#1936</styleUrl>
+            <Point id="1934">
+                <coordinates>1.822088825114864,41.58955899693924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1941">
+            <name>Cota 455</name>
+            <description>Es un petit serrat paral·lel al que es troba en la part superior de la Plantació que va des de l’agulla de la Plantació fins a la Torres Homet. La cota 455 està a l’oest del Barretet; la cota 454 està entre la 455 i la 453; i aquesta última està a l’oest de la Triple i sota de la Torres Homet.</description>
+            <styleUrl>#1942</styleUrl>
+            <Point id="1940">
+                <coordinates>1.82188441219445,41.58958392351318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1947">
+            <name>Cota 471 (Els Estalvis del Porró)</name>
+            <description>Es troba sobre i a l’esquerra de la dels Col·leccionistes i sota la roca del Porró. És una roca que té aspecte de flam per la seva àmplia base. Tot i que en Josep Barberà no li dóna cap nom actualment es coneix amb el nom d’Estalvis del Porró.</description>
+            <styleUrl>#1948</styleUrl>
+            <Point id="1946">
+                <coordinates>1.821040079518577,41.58851243163643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1953">
+            <name>El Barretet</name>
+            <description>Es la roca mes alta de la carena que es troba en la zona oest de la Plantació i que comença amb l’agulla de la Plantació i acaba amb l’Oblidada passant pels Estalvis del Porró. Per en Josep Barberà, la més esvelta de tota la secció, cas apart de la roca de la Mamella. Forma un coll amb la cota 455. La part superior del Barretet té forma de bola amb una important balma per la banda oest.</description>
+            <styleUrl>#1954</styleUrl>
+            <Point id="1952">
+                <coordinates>1.821691666978875,41.589626983482546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1959">
+            <name>El Gendre</name>
+            <description>Promontori situat entre la Fills Alta i la Filla Baixa. Bon mirador.</description>
+            <styleUrl>#1960</styleUrl>
+            <Point id="1958">
+                <coordinates>1.82140411943442,41.586966945655405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1965">
+            <name>Fals Ou</name>
+            <description>Gran roca situada a tocar del torrent dels Llores i sota la cota 475.</description>
+            <styleUrl>#1966</styleUrl>
+            <Point id="1964">
+                <coordinates>1.822232796536988,41.58757891330171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1971">
+            <name>Fals Punxó</name>
+            <description>Roca altiva situada a la dreta del Punxó i molt propera al marge dret del torrent dels Llorers. Per la seva forma pot confondre’s amb el Punxó que es trona més a l’oest. No fou referènciada per en Josep Barberà.</description>
+            <styleUrl>#1972</styleUrl>
+            <Point id="1970">
+                <coordinates>1.821167205378865,41.587459906284415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1977">
+            <name>La Doble – Cota 423</name>
+            <description>És una gran roca a la part nord del torrent dels Llorers i és l’inici d’una llarga carena que baixa cap al sud. Aquesta carena ha estat anomenada com la Procesó dels Monjos. Aquesta roca té dues puntes, la 423 al nord i la 424 al sud. La primera punta. Dóna la impressió que estigui formada per dues puntes, semblant a una gran gepa de camell.</description>
+            <styleUrl>#1978</styleUrl>
+            <Point id="1976">
+                <coordinates>1.823975535401079,41.58938916465178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1983">
+            <name>La Doble – cota 424</name>
+            <description>És una gran roca a la part nord del torrent dels Llorers i és l’inici d’una llarga carena que baixa cap al sud. Aquesta carena ha estat anomenada com la Procesó dels Monjos. Aquesta roca té dues puntes, la 423 al nord i la 424 al sud. La primera punta. Dóna la impressió que estigui formada per dues puntes, semblant a una gran gepa de camell.</description>
+            <styleUrl>#1984</styleUrl>
+            <Point id="1982">
+                <coordinates>1.823824826805485,41.58909939609643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1989">
+            <name>La Mamella</name>
+            <description>Es la roca mes esvelta d’aquesta secció situada ben be a sota de la roca de la Doble. Fa coll amb la Mamelleta.</description>
+            <styleUrl>#1990</styleUrl>
+            <Point id="1988">
+                <coordinates>1.823333673080196,41.58905834158275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1995">
+            <name>La Mamelleta</name>
+            <description>Gran roca sota l’agulla de la Miranda de la Mamella. Està entre la canal de la Triple i la canal de la Mamella. Pertany al grup de la Processo dels Monjos.</description>
+            <styleUrl>#1996</styleUrl>
+            <Point id="1994">
+                <coordinates>1.823410281276201,41.58946444448928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2001">
+            <name>La Triple – Cota 430</name>
+            <description>Són tres agulles adossades, la central és la més alta i més grossa. Aquesta roca forma part de les roques de la Processó dels Monjos i per anar-hi cal agafar la mateixa canal que davalla des de la roca de la Miranda a la Mamella, vers el torrent de l’Artiga Alta. Des de la Triple neix una petita carena que davalla cap al sud on, al seu extrem es troba l’agulla dels Col·leccionistes i sota d’ella el Punxó. Aquesta cadena té a l’est un petit torrent que la separa de la Processó dels Monjos.</description>
+            <styleUrl>#2002</styleUrl>
+            <Point id="2000">
+                <coordinates>1.822866071702803,41.58970206454097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2007">
+            <name>La Triple – Cota 431</name>
+            <description>Són tres agulles adossades, la central és la més alta i més grossa. Aquesta roca forma part de les roques de la Processó dels Monjos i per anar-hi cal agafar la mateixa canal que davalla des de la roca de la Miranda a la Mamella, vers el torrent de l’Artiga Alta. Des de la Triple neix una petita carena que davalla cap al sud on, al seu extrem es troba l’agulla dels Col·leccionistes i sota d’ella el Punxó. Aquesta cadena té a l’est un petit torrent que la separa de la Processó dels Monjos.</description>
+            <styleUrl>#2008</styleUrl>
+            <Point id="2006">
+                <coordinates>1.822795571748365,41.58962027887198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2013">
+            <name>La Triple – Cota 432</name>
+            <description>Són tres agulles adossades, la central és la més alta i més grossa. Aquesta roca forma part de les roques de la Processó dels Monjos i per anar-hi cal agafar la mateixa canal que davalla des de la roca de la Miranda a la Mamella, vers el torrent de l’Artiga Alta. Des de la Triple neix una petita carena que davalla cap al sud on, al seu extrem es troba l’agulla dels Col·leccionistes i sota d’ella el Punxó. Aquesta cadena té a l’est un petit torrent que la separa de la Processó dels Monjos.</description>
+            <styleUrl>#2014</styleUrl>
+            <Point id="2012">
+                <coordinates>1.822582600107887,41.58945597028389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2019">
+            <name>La Vicepresidenta</name>
+            <description>Roca veina de la cara nord de la Presidenta.</description>
+            <styleUrl>#2020</styleUrl>
+            <Point id="2018">
+                <coordinates>1.822123977919787,41.586965316476515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2025">
+            <name>L’Oblidada</name>
+            <description>És la darrera agulla situada al sud d’una carena que neix a l’agulla de la Plantació i progressa cap al sud de la Plantació. L’Oblidada es troba al damunt del torrent dels Llorers.</description>
+            <styleUrl>#2026</styleUrl>
+            <Point id="2024">
+                <coordinates>1.82030766432085,41.58722591190182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2031">
+            <name>L’Ou de la Plantació</name>
+            <description>Es deu baixar pel camí que baixa per la bretxa entre la Miranda de Santa Magdalena i a la cota 409, quedant aquesta roca a la banda de la dreta i sobre el torrent en que baixa per l’altre banda la llarga carena de la Processó dels Monjos</description>
+            <styleUrl>#2032</styleUrl>
+            <Point id="2030">
+                <coordinates>1.823723020675587,41.58809856793336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2037">
+            <name>Miranda de la Mamella</name>
+            <description>La roca de la Miranda de la Mamella està unida amb la Mamelleta, per un estret collet, a la vessant sud. Forma part del grup de la Processó dels Monjos.</description>
+            <styleUrl>#2038</styleUrl>
+            <Point id="2036">
+                <coordinates>1.823512516508497,41.5897807387526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2043">
+            <name>Processó dels Monjos – Cota 422</name>
+            <description>És la roca més al nord de la Processó dels Monjos. Està formada per dos cims. La cota 421 està unida per un coll amb la cota 420. Per la cara sud estan separades de la Mamella i la Doble per una petita canal.</description>
+            <styleUrl>#2044</styleUrl>
+            <Point id="2042">
+                <coordinates>1.823850514047057,41.58966710523411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2049">
+            <name>Processó dels Monos – Cota 421</name>
+            <description>Petita agulla propera al torrent dels Llorers i veïna de la Mamella i de la Doble. A la seva vessant oest forma un petit collet amb la 433. Forma part també de la carena de la Processó dels Monjos En Josep Barberà indica que en el plànol d’en Semir no hi està indicada però si en el seu nomenclàtor.</description>
+            <styleUrl>#2050</styleUrl>
+            <Point id="2048">
+                <coordinates>1.823994949468497,41.58964156161921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2055">
+            <name>Punxó de  la Pau i Justícia</name>
+            <description>Agulla esvelta i solitària situada a la dreta del torrent dels Llorers i al final d’una carena que s’inicia a al Triple. Una mica més amunt hi ha té l’agulla dels Col·leccionistes.</description>
+            <styleUrl>#2056</styleUrl>
+            <Point id="2054">
+                <coordinates>1.820903151501901,41.58746620537355,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2061">
+            <name>Roca de la Cantelluda</name>
+            <description>Roca situada al costat est de la roca la Presidenta.</description>
+            <styleUrl>#2062</styleUrl>
+            <Point id="2060">
+                <coordinates>1.82267852558554,41.58681787652817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2067">
+            <name>Roca de la Filla Alta de la Presidenta</name>
+            <description>És una roca situada en la carena que comença a la roca de la Cantelluda i que va paral·lela al marge esquerra del torrent dels Llorers. Està per sota de la Presidenta pel seu costat oest i quasi adossada a ella. Entre la Filla Alta i la Filla Baixa hi ha un petit promontori que es coneix com el Gendre.</description>
+            <styleUrl>#2068</styleUrl>
+            <Point id="2066">
+                <coordinates>1.82171631465242,41.58695213175738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2073">
+            <name>Roca de la Filla Baixa de la Presidenta</name>
+            <description>És una roca situada al final de la carena que comença a la roca de la Cantelluda i que va paral·lela al marge esquerra del torrent dels Llorers. Aquesta agulla forma un collet amb la cota 479A.</description>
+            <styleUrl>#2074</styleUrl>
+            <Point id="2072">
+                <coordinates>1.821139576072508,41.587000261537035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2079">
+            <name>Roca de la Presidenta</name>
+            <description>Es la més destacable d’aquesta carena descendent que limita a l’est de la Plantació. Té unes parets sud impressionants. Es troba sota la roca de la Cantalluda.</description>
+            <styleUrl>#2080</styleUrl>
+            <Point id="2078">
+                <coordinates>1.821957686347966,41.5868735416611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2085">
+            <name>Roca de l’Esquerda</name>
+            <description>Gran roca situada més avall de la roca del Rellotge i una mica més gran que aquesta. En la classificació d’en Josep Barberà està situada en la secció de Sant Pere. En el nostre cas la hem incorporat a la secció de la Plantació.</description>
+            <styleUrl>#2086</styleUrl>
+            <Point id="2084">
+                <coordinates>1.82092805900524,41.58609738356182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2091">
+            <name>Roca de Sant Cugat</name>
+            <description>És la roca més gran de tota la Plantació. Té un cos voluminós. Es troba sota mateix de l’agulla Jaume Mata.</description>
+            <styleUrl>#2092</styleUrl>
+            <Point id="2090">
+                <coordinates>1.822758992830582,41.58833189116953,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2097">
+            <name>Roca del Divendres Sant</name>
+            <description>Roca situada entre el Barretet i el Porró i envoltada per agulles, a dret i esquerra.</description>
+            <styleUrl>#2098</styleUrl>
+            <Point id="2096">
+                <coordinates>1.821372541794386,41.58936250663464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2103">
+            <name>Roca del Porró</name>
+            <description>Pujant des de la roca dels Col·leccionistes, es passa per entre aquesta i una altra roca que hi ha a l’est de la carena i que no està catalogada com a cota,</description>
+            <styleUrl>#2104</styleUrl>
+            <Point id="2102">
+                <coordinates>1.821323704940442,41.58874952420185,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2109">
+            <name>Roca del Rellotge</name>
+            <description>Aquesta roca està situada al costat del camí de Sant Joan a la Plantació. Està un mica més al nord de la roca de l’Esquerda. S’ha inclòs en aquesta secció tot i que en Josep Barberà la situa en la secció de Sant Pere.</description>
+            <styleUrl>#2110</styleUrl>
+            <Point id="2108">
+                <coordinates>1.821261782402043,41.58621789800975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2115">
+            <name>Roca dels Col·leccionistes</name>
+            <description>Des del peu de la cota 436 hom veu la roca dels Col·leccionistes a la seva dreta. És una agulla que té dos cims.</description>
+            <styleUrl>#2116</styleUrl>
+            <Point id="2114">
+                <coordinates>1.82177735424167,41.58821374947319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2121">
+            <name>Roques de sota el Rellotge</name>
+            <description>Són dues roques situades per sota la roca del Rellotge en direcció a la Filla Baixada la Presidenta. En la classificació d’en Josep Barberà aquestes roques estaven a la secció de Sant Pere.</description>
+            <styleUrl>#2122</styleUrl>
+            <Point id="2120">
+                <coordinates>1.821508431662284,41.5865086535729,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2127">
+            <name>Roques sota el Rellotge</name>
+            <description>Són dues roques situades per sota la roca del Rellotge en direcció a la Filla Baixada la Presidenta. En la classificació d'en Josep Barberà aquestes roques estaven a la secció de Sant Pere.</description>
+            <styleUrl>#2128</styleUrl>
+            <Point id="2126">
+                <coordinates>1.821101590629835,41.58645043967018,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

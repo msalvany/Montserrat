@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="823">
+        <Style id="826">
+            <IconStyle id="827">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="828">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="829">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="832">
+            <IconStyle id="833">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="834">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="835">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="838">
+            <IconStyle id="839">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="840">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="841">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="844">
+            <IconStyle id="845">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="846">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="847">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="850">
+            <IconStyle id="851">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="852">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="853">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="856">
+            <IconStyle id="857">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="858">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="859">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="862">
+            <IconStyle id="863">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="864">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="865">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="868">
+            <IconStyle id="869">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="870">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="871">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="874">
+            <IconStyle id="875">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="876">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="877">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="880">
+            <IconStyle id="881">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="882">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="883">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="886">
+            <IconStyle id="887">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="888">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="889">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="892">
+            <IconStyle id="893">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="894">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="895">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="898">
+            <IconStyle id="899">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="900">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="901">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="904">
+            <IconStyle id="905">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="906">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="907">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="910">
+            <IconStyle id="911">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="912">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="913">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="916">
+            <IconStyle id="917">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="918">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="919">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="922">
+            <IconStyle id="923">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="924">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="925">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="928">
+            <IconStyle id="929">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="930">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="931">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="934">
+            <IconStyle id="935">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="936">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="937">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="940">
+            <IconStyle id="941">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="942">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="943">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="946">
+            <IconStyle id="947">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="948">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="949">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="952">
+            <IconStyle id="953">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="954">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="955">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="958">
+            <IconStyle id="959">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="960">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="961">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="964">
+            <IconStyle id="965">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="966">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="967">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="970">
+            <IconStyle id="971">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="972">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="973">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="976">
+            <IconStyle id="977">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="978">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="979">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="982">
+            <IconStyle id="983">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="984">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="985">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="988">
+            <IconStyle id="989">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="990">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="991">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="994">
+            <IconStyle id="995">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="996">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="997">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1000">
+            <IconStyle id="1001">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1002">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1003">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1006">
+            <IconStyle id="1007">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1008">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1009">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1012">
+            <IconStyle id="1013">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1014">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1015">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1018">
+            <IconStyle id="1019">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1020">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1021">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1024">
+            <IconStyle id="1025">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1026">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1027">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1030">
+            <IconStyle id="1031">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1032">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1033">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1036">
+            <IconStyle id="1037">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1038">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1039">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1042">
+            <IconStyle id="1043">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1044">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1045">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1048">
+            <IconStyle id="1049">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1050">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1051">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1054">
+            <IconStyle id="1055">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1056">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1057">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1060">
+            <IconStyle id="1061">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1062">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1063">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1066">
+            <IconStyle id="1067">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1068">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1069">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1072">
+            <IconStyle id="1073">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1074">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1075">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1078">
+            <IconStyle id="1079">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1080">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1081">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1084">
+            <IconStyle id="1085">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1086">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1087">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1090">
+            <IconStyle id="1091">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1092">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1093">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1096">
+            <IconStyle id="1097">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1098">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1099">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1102">
+            <IconStyle id="1103">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1104">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1105">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1108">
+            <IconStyle id="1109">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1110">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1111">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1114">
+            <IconStyle id="1115">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1116">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1117">
+                <color>ff2ca02c</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="825">
+            <name>Agulla de la Boleta o la Desconeguda</name>
+            <description>Es troba sota el pedestal de la Boleta del Portell Estret.</description>
+            <styleUrl>#826</styleUrl>
+            <Point id="824">
+                <coordinates>1.788487042746501,41.610538493758796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="831">
+            <name>Agulla d’en Passola</name>
+            <styleUrl>#832</styleUrl>
+            <Point id="830">
+                <coordinates>1.78899302766054,41.61043574108843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="837">
+            <name>Agulla d’en Tagore</name>
+            <styleUrl>#838</styleUrl>
+            <Point id="836">
+                <coordinates>1.79078173268482,41.60848202958823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="843">
+            <name>Agulla Sens Nom</name>
+            <description>Es troba en la intersecció del camí de la travessa dels Frares Encantats amb Sens Nom. Està separada de l’Ànec per una ampla canal en el part nord-oest.</description>
+            <styleUrl>#844</styleUrl>
+            <Point id="842">
+                <coordinates>1.788759447329772,41.61009101252698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="849">
+            <name>Cap d’en Calventus</name>
+            <styleUrl>#850</styleUrl>
+            <Point id="848">
+                <coordinates>1.787706961965844,41.607332769795754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="855">
+            <name>Contrafort de l’Anec</name>
+            <styleUrl>#856</styleUrl>
+            <Point id="854">
+                <coordinates>1.789000984215404,41.61065199384866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="861">
+            <name>Cota 102</name>
+            <description>És una de les roques del Serrat del Centenar. Es troba a la dreta del camí de la travessa de la regió de Frares Encantats  l'esquerra del collet que va des de la Canal Ampla a la Nina per damunt de la cota 103 i al costat de la 101 o Roca de del Serrat de</description>
+            <styleUrl>#862</styleUrl>
+            <Point id="860">
+                <coordinates>1.79048091855753,41.6104514067732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="867">
+            <name>Cota 103</name>
+            <description>Aquesta cota és una de les roques del Serrat del Centenar. Es troba a la dreta dl camí de la trevessa dels Frares Encantats. És una roca de forma arrodonida i fa coll amb la Cota 104 o Agulla Bífida.</description>
+            <styleUrl>#868</styleUrl>
+            <Point id="866">
+                <coordinates>1.79017483099529,41.61013293922175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="873">
+            <name>Cota 104 – Agulla Bífida</name>
+            <styleUrl>#874</styleUrl>
+            <Point id="872">
+                <coordinates>1.790249012817367,41.61001662843601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="879">
+            <name>Cota 107</name>
+            <description>La cota 107 es troba al nord de la 108 entre aquesta i la cota 104 o agulla Bífida.</description>
+            <styleUrl>#880</styleUrl>
+            <Point id="878">
+                <coordinates>1.790428157281374,41.61006354887025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="885">
+            <name>Cota 108</name>
+            <description>Aquesta roca està separada per una petita canal amb la cota 109 o Gis-Taus per on passa el camí.</description>
+            <styleUrl>#886</styleUrl>
+            <Point id="884">
+                <coordinates>1.790453501269863,41.60999175923317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="891">
+            <name>Cota 109 – Agulla Gis-Taus</name>
+            <styleUrl>#892</styleUrl>
+            <Point id="890">
+                <coordinates>1.790515346957849,41.609893332544075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="897">
+            <name>Cota 175</name>
+            <description>Es troba a sota mateix de la cota 178 en direcció sud.</description>
+            <styleUrl>#898</styleUrl>
+            <Point id="896">
+                <coordinates>1.787726182011433,41.606306169468446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="903">
+            <name>Cota 178</name>
+            <description>Situada entre la cota 175 i el Cap d'en Calventus.</description>
+            <styleUrl>#904</styleUrl>
+            <Point id="902">
+                <coordinates>1.787917342782569,41.60699272068768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="909">
+            <name>Cresta Plana</name>
+            <description>És la roca final de la petita carena que neix més amunt en l’agulla Amagada. Pel seu peu passa el camí que va des del pas de la Portella al Montgròs.</description>
+            <styleUrl>#910</styleUrl>
+            <Point id="908">
+                <coordinates>1.787597713909605,41.60547616637806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="915">
+            <name>El Caputxó d’en Semir</name>
+            <styleUrl>#916</styleUrl>
+            <Point id="914">
+                <coordinates>1.789632516266497,41.61025332865702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="921">
+            <name>El Carquinyoli</name>
+            <description>Petita roca penjada la paret N. del Serrat del Centenar. Cal baixar per una canal entre el Queixal i el serrat esmentat, sortint des del coll amb molta precaució i encordats; deixant dita canal i per dintre vegetació es va a buscar una canaleta que porta</description>
+            <styleUrl>#922</styleUrl>
+            <Point id="920">
+                <coordinates>1.790300090397091,41.61049453909872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="927">
+            <name>El Gendarme</name>
+            <description>Està situada a la part nord de l'agulla Sens Nom i forma part de la muralla de la pared nord del massís.</description>
+            <styleUrl>#928</styleUrl>
+            <Point id="926">
+                <coordinates>1.789218989952237,41.61054620590772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="933">
+            <name>El Melindro</name>
+            <description>Un roca molt poc coneguda però força interessant, situada sota la Boleta Foradada i que gairebé és un contrafort del seu basament.</description>
+            <styleUrl>#934</styleUrl>
+            <Point id="932">
+                <coordinates>1.791053009080802,41.61066458697972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="939">
+            <name>El Morro Pla</name>
+            <description>Aquesta agulla es troba tot seguit a l’Elefant petit seguint el camí de la travessa dels Frares Encantats en direcció cap a la canal Ampla. El camí voreja quasi tota la cara nord i oest d’aquesta agulla. En aquesta vessant es troba un pi que té tres branq</description>
+            <styleUrl>#940</styleUrl>
+            <Point id="938">
+                <coordinates>1.790052265576827,41.609627254896296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="945">
+            <name>El Queixal</name>
+            <description>Agulla solitària situada al nord de la Nana i en direcció a la muralla de la paret nord de la regió de Frares Encantats..</description>
+            <styleUrl>#946</styleUrl>
+            <Point id="944">
+                <coordinates>1.789602579771412,41.60992875999387,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="951">
+            <name>La Boleta del Portell Estret</name>
+            <description>Es troba abocada al damunt mateix del coll d'Agulles o Portell Estret per la banda est.</description>
+            <styleUrl>#952</styleUrl>
+            <Point id="950">
+                <coordinates>1.788605180621776,41.61063881625852,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="957">
+            <name>La Boleta Foradada</name>
+            <description>Aquesta peculiar agulla es troba entre el serrat del Centenar i la Nina, de la qual està separada per una accidentada torrentada on s'aixeca l'agulla del Melindro. Com el seu nom ja ho indica, es tracta d'una bola de roca assentada  damunt d’un pedestal.</description>
+            <styleUrl>#958</styleUrl>
+            <Point id="956">
+                <coordinates>1.790944680240131,41.610681461676265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="963">
+            <name>La Caputxa o Agulla Vicenç Barbé</name>
+            <description>Aquesta agulla ha estat durant temps una de les roques mes temudes de Montserrat. Ha estat l’agulla que durant més temps va imposar un gran respecte car, mentre intentava fer-hi la primera ascensió fatalment hi perdé la vida en Vicenç Barbé. El camí de la</description>
+            <styleUrl>#964</styleUrl>
+            <Point id="962">
+                <coordinates>1.788621656466235,41.60911680015489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="969">
+            <name>La Mamelluda</name>
+            <description>El camí de la travessa de Frares Encantats, un cop deixat enrere la Nana i per anar a la canal Ampla es passa per la vessant oest d’aquest allargassada roca. El seu no prové de dues protuberàncies rocoses en la seva part superior. Per la part inferior s’i</description>
+            <styleUrl>#970</styleUrl>
+            <Point id="968">
+                <coordinates>1.789088433489881,41.60918476759426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="975">
+            <name>La Nana</name>
+            <description>Es troba al costat del Morro Pla del qual està separada per un petit planell. El camí de la travessa dels Frares Encantats passa per la seva cara nord.</description>
+            <styleUrl>#976</styleUrl>
+            <Point id="974">
+                <coordinates>1.789491176288059,41.60946822780452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="981">
+            <name>La Nina</name>
+            <description>Segons Josep Barberà és una de les roques més perfectes de Montserrat, formant una capriciosa silueta molt proporcionada. Queda a tocar del camí que des de la canal Ampla mena al Lloro després de deixar enrere la Monja.</description>
+            <styleUrl>#982</styleUrl>
+            <Point id="980">
+                <coordinates>1.791224023793994,41.61050425875595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="987">
+            <name>l’Amagada</name>
+            <styleUrl>#988</styleUrl>
+            <Point id="986">
+                <coordinates>1.788882223568875,41.60866018671542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="993">
+            <name>L’Anec</name>
+            <styleUrl>#994</styleUrl>
+            <Point id="992">
+                <coordinates>1.78878803189391,41.610487623456244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="999">
+            <name>L’Elefant Petit o Agulla de les Tramperes</name>
+            <styleUrl>#1000</styleUrl>
+            <Point id="998">
+                <coordinates>1.790120893810908,41.60980811807095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1005">
+            <name>L’Escut – Miranda de la Nina</name>
+            <styleUrl>#1006</styleUrl>
+            <Point id="1004">
+                <coordinates>1.791162621693452,41.60993616950214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1011">
+            <name>Punta 167</name>
+            <description>Es una petita roca veïna de la propera la roca de les Balmes i per sota de la roca 118.</description>
+            <styleUrl>#1012</styleUrl>
+            <Point id="1010">
+                <coordinates>1.789878193108527,41.60738266891383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1017">
+            <name>Punta d’en Campanilles</name>
+            <styleUrl>#1018</styleUrl>
+            <Point id="1016">
+                <coordinates>1.790260401910141,41.60876476956547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1023">
+            <name>Roca 113</name>
+            <description>Situada sota el Morro Pla per la seva part Sud i al costa de la Roca de la Grip.</description>
+            <styleUrl>#1024</styleUrl>
+            <Point id="1022">
+                <coordinates>1.790445821953168,41.609117995443526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1029">
+            <name>Roca 118 – El Gallífol</name>
+            <styleUrl>#1030</styleUrl>
+            <Point id="1028">
+                <coordinates>1.790068874860303,41.60809623259164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1035">
+            <name>Roca 119 –  Miranda de l’Alba</name>
+            <styleUrl>#1036</styleUrl>
+            <Point id="1034">
+                <coordinates>1.789010464360885,41.608220192741605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1041">
+            <name>Roca 129</name>
+            <description>Es una petita agulla engatxada al Morro Pla per la seva vessant sud com un contrafort.</description>
+            <styleUrl>#1042</styleUrl>
+            <Point id="1040">
+                <coordinates>1.789971638778755,41.609446265371595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1047">
+            <name>Roca 135</name>
+            <description>Petit turó situat al sud de la roca 155.</description>
+            <styleUrl>#1048</styleUrl>
+            <Point id="1046">
+                <coordinates>1.789702711872265,41.60649813103334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1053">
+            <name>Roca 155</name>
+            <description>Està voltada de vegetació i posada a la mateixa carena de l’agulla de la Grip. Queda en un petit planell amb una gran frondositat d'arbres</description>
+            <styleUrl>#1054</styleUrl>
+            <Point id="1052">
+                <coordinates>1.789830486619612,41.60672465242301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1059">
+            <name>Roca 168</name>
+            <description>Aquesta allargassada roca , situada a continuació de la roca 135, queda damunt del mateix del camí transversal que va del pas de la Portella al Montgròs pel coll de Port. Aquest camí talla en aquest punt el serrat de la Grip que continua més cap al sud en</description>
+            <styleUrl>#1060</styleUrl>
+            <Point id="1058">
+                <coordinates>1.789329539127774,41.605917750401005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1065">
+            <name>Roca 169</name>
+            <description>Curiosament separada d'aquesta carena, hom troba aquesta solitària agulla situada molt a prop del camí del pas de la Portella al Montgròs pel coll de Port a la banda que dóna al torrent del Lloro.</description>
+            <styleUrl>#1066</styleUrl>
+            <Point id="1064">
+                <coordinates>1.789614299632572,41.60609188306072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1071">
+            <name>Roca 174 – Agulla d’en Charly</name>
+            <styleUrl>#1072</styleUrl>
+            <Point id="1070">
+                <coordinates>1.788351378289483,41.60816821215945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1077">
+            <name>Roca 180</name>
+            <description>Està a la mateixa carena de la roca de les Balmes, unida amb ellaper un collet.</description>
+            <styleUrl>#1078</styleUrl>
+            <Point id="1076">
+                <coordinates>1.789826447340328,41.606940778975996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1083">
+            <name>Roca 181 – La Piràmide</name>
+            <styleUrl>#1084</styleUrl>
+            <Point id="1082">
+                <coordinates>1.787917908220791,41.60824470562246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1089">
+            <name>Roca de la Grip</name>
+            <description>Just per sota, cara sud, de la roca 109 (Gis-Taus) i a una certa distància d'ella s'inicia un serrat que s'exten direcció sud fins el camí que uneix el pas de la Portella i el Montgròs. La primera roca al nord d'aquest serrat és la Roca de la Grip. La sev</description>
+            <styleUrl>#1090</styleUrl>
+            <Point id="1088">
+                <coordinates>1.790626141538234,41.60910187864231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1095">
+            <name>Roca de les Balmes</name>
+            <description>La roca de les Balmes, situada a la mateixa carena que comença a l'agulla de la Grip i la roca 118 (el Gallifol)  està per sota de la punta 167.</description>
+            <styleUrl>#1096</styleUrl>
+            <Point id="1094">
+                <coordinates>1.789832050259481,41.60728310565332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1101">
+            <name>Roca de Nadal</name>
+            <description>És la veina de l’Escut per l'oest. Per la seva cara nord passa el camí de la travessa de Frares Encantats.</description>
+            <styleUrl>#1102</styleUrl>
+            <Point id="1100">
+                <coordinates>1.790944789290163,41.61003295593895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1107">
+            <name>Roca del Serrat del Centenar</name>
+            <description>Seguint pel camí de la travessa de Frares Encantats es troba a ma dreta, després de la Boleta Foradada, un petit serrat. La primera roca d’aquest serrat és la Roca del Serrat del Centenar. Aquest serrat rocós és el més alt d'aquesta secció i domina una bo</description>
+            <styleUrl>#1108</styleUrl>
+            <Point id="1106">
+                <coordinates>1.790658214086885,41.610597384830484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1113">
+            <name>Roca sota la Punta d’en Campanilles</name>
+            <styleUrl>#1114</styleUrl>
+            <Point id="1112">
+                <coordinates>1.790192952161066,41.60852086955064,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1471">
+        <Style id="1474">
+            <IconStyle id="1475">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1476">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1477">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1480">
+            <IconStyle id="1481">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1482">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1483">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1486">
+            <IconStyle id="1487">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1488">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1489">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1492">
+            <IconStyle id="1493">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1494">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1495">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1498">
+            <IconStyle id="1499">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1500">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1501">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1504">
+            <IconStyle id="1505">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1506">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1507">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1510">
+            <IconStyle id="1511">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1512">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1513">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1516">
+            <IconStyle id="1517">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1518">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1519">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1522">
+            <IconStyle id="1523">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1524">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1525">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1528">
+            <IconStyle id="1529">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1530">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1531">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1534">
+            <IconStyle id="1535">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1536">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1537">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1540">
+            <IconStyle id="1541">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1542">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1543">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1546">
+            <IconStyle id="1547">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1548">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1549">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1552">
+            <IconStyle id="1553">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1554">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1555">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1558">
+            <IconStyle id="1559">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1560">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1561">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1564">
+            <IconStyle id="1565">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1566">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1567">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1570">
+            <IconStyle id="1571">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1572">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1573">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1576">
+            <IconStyle id="1577">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1578">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1579">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1582">
+            <IconStyle id="1583">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1584">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1585">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1588">
+            <IconStyle id="1589">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1590">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1591">
+                <color>ff3c3bdb</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="1473">
+            <name>Agulla Ausias March</name>
+            <description>A partir de cota identificada com a roca de Santa Caterina en el serrat del Penitent baixant cap al sud Manel Punsola situa aquesta agulla. Manel Punsola li dóna el número 975</description>
+            <styleUrl>#1474</styleUrl>
+            <Point id="1472">
+                <coordinates>1.8270421799852,41.58103489270187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1479">
+            <name>Agulla de la Pastereta</name>
+            <description>Des de la roca de la Miranda de Sant Pere baixa una aresta llarga i molt suau que es despenja verticalment sobre el serrat de la Pastereta. Just en aquest indret es troba l’agulla que ens ocupa, unida per un collet a l’aresta esmentada i a la dreta del seu començament.</description>
+            <styleUrl>#1480</styleUrl>
+            <Point id="1478">
+                <coordinates>1.821602388250599,41.58332110670611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1485">
+            <name>Agulla Eliseu Climent</name>
+            <description>Agulla al costa de l'agulla Joan Fuster. Manel Punsolà li dóna a aquesta agulla el número 978</description>
+            <styleUrl>#1486</styleUrl>
+            <Point id="1484">
+                <coordinates>1.827366891624023,41.580326644431835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1491">
+            <name>Agulla Ferran Torrent</name>
+            <description>Agulla de la part final del serrat del Penitent segons Manel Punsolà. Manel Punsolà li dóna a aquesta agulla el número 980</description>
+            <styleUrl>#1492</styleUrl>
+            <Point id="1490">
+                <coordinates>1.827516680898593,41.58000391660179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1497">
+            <name>Agulla Isabel Clara Simó</name>
+            <description>A la part final del serrat del Petintent Manel Punsolà descriu aquesta agulleta veïna de l'agulla Ferran Torrent. Manel Punsolà li dóna a aquesta agulla el número 979</description>
+            <styleUrl>#1498</styleUrl>
+            <Point id="1496">
+                <coordinates>1.827501917755799,41.58015688673496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1503">
+            <name>Agulla Janot Martorell</name>
+            <description>Segons la descripció de Manel Punsolà agulla sota l'agulla de Ausies Marc. Manel Punsolà li dóna a aquesta agulla el número 976</description>
+            <styleUrl>#1504</styleUrl>
+            <Point id="1502">
+                <coordinates>1.827164888744806,41.580883023950996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1509">
+            <name>Agulla Joan Fuster</name>
+            <description>En la part inferior del serrat del Petinent Manuel Punsolà identifica dues agulles properes una d'elles és aquesta i l'altra és l'Eliseu Climent. Manel Punsolà li dóna a aquesta agulla el número 977</description>
+            <styleUrl>#1510</styleUrl>
+            <Point id="1508">
+                <coordinates>1.827293462900063,41.58040695932466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1515">
+            <name>Agulla Ovidi Monllor</name>
+            <description>Aquesta agulla es la darrera que es troba en el serrat del Penitent abans que aquest arribi al Turó del Penitent. Manel Punsolà li dóna a aquesta agulla el número 981</description>
+            <styleUrl>#1516</styleUrl>
+            <Point id="1514">
+                <coordinates>1.827507456722739,41.579850701822295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1521">
+            <name>Bauma del Penitent</name>
+            <styleUrl>#1522</styleUrl>
+            <Point id="1520">
+                <coordinates>1.826006973586054,41.583879575275766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1527">
+            <name>Creu de la Bauma del Penitent</name>
+            <styleUrl>#1528</styleUrl>
+            <Point id="1526">
+                <coordinates>1.825603571722696,41.583632263471934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1533">
+            <name>Ermita de Santa Caterina</name>
+            <styleUrl>#1534</styleUrl>
+            <Point id="1532">
+                <coordinates>1.826556865498039,41.58597483491058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1539">
+            <name>Miranda de Sant Pere</name>
+            <description>n la mateixa carena que davalla de la Miranda de Sant Joan i la Miranda de Santa Caterina cap al serrat del Penitent, abans d’arribar a la balma del Penitent es troba aquesta roca planera a partir de la qual continua una llarga carena que cau desplomada sobre el serrat de la Pastereta tancant la vessant esquerra del torrent del Misser.</description>
+            <styleUrl>#1540</styleUrl>
+            <Point id="1538">
+                <coordinates>1.825807560455896,41.58561590749895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1545">
+            <name>Miranda de Santa Caterina</name>
+            <description>Des de Sant Joan s'agafa el camí de la balma del Penitent anomenada en alguna guia com ermita de Sant Pere.  En arribar al coll on surt la carena que porta a aquesta balma es troba un turó que és la Miranda de Santa Caterina.</description>
+            <styleUrl>#1546</styleUrl>
+            <Point id="1544">
+                <coordinates>1.825451226867632,41.586080636108235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1551">
+            <name>Roca de l’Artiga Baixa</name>
+            <description>A l’inici del serrat d’en Muntaner, seguint amunt per una estreta carena que parteix dos torrents. El de l’esquerra és l’Artiga Baixa. En aquest indret es veu un grup de tres agulles ben definides, la del més al sud és la Roca de l’Artiga Baixa.</description>
+            <styleUrl>#1552</styleUrl>
+            <Point id="1550">
+                <coordinates>1.81996859654979,41.58476349689248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1557">
+            <name>Roca del Frare Baix</name>
+            <description>Està a la part inferior i sud del serrat del Muntaner amb el qual està unit per un estret coll.</description>
+            <styleUrl>#1558</styleUrl>
+            <Point id="1556">
+                <coordinates>1.816323653833903,41.58136638006682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1563">
+            <name>Roca d’en Marcel</name>
+            <description>Sota la roca 464 i baixant per la mateixa cinglera per la part dreta de la torrentada de la Coma Baixa.</description>
+            <styleUrl>#1564</styleUrl>
+            <Point id="1562">
+                <coordinates>1.821226089641847,41.58554200036912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1569">
+            <name>Serrat de la Pastereta</name>
+            <description>De fàcil recorregut, davalla paral·lela al d’en Muntaner, del qual el separa el torrent de l’Artiga Baixa.</description>
+            <styleUrl>#1570</styleUrl>
+            <Point id="1568">
+                <coordinates>1.82004278538639,41.582665606044515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1575">
+            <name>Serrat del Penitent</name>
+            <description>S’esten des del sud a partir de la balma del Penitent i mena al camí de les Bateries, indret en el qual les roques són ja de molt petites proporcions. La travessia d’aquest serrat no ofereix cap mena de problema.</description>
+            <styleUrl>#1576</styleUrl>
+            <Point id="1574">
+                <coordinates>1.826689071227568,41.58198604175093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1581">
+            <name>Serrat del Penitent</name>
+            <description>S’esten des del sud a partir de la balma del Penitent i mena al camí de les Bateries, indret en el qual les roques són ja de molt petites proporcions. La travessia d’aquest serrat no ofereix cap mena de problema.</description>
+            <styleUrl>#1582</styleUrl>
+            <Point id="1580">
+                <coordinates>1.82530517557136,41.58487219361468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1587">
+            <name>Serrat d’en Muntaner</name>
+            <description>Baixant de la Roca de l’Artiga Baixa per la carena neix en un collet el Serrat d’en Muntaner.</description>
+            <styleUrl>#1588</styleUrl>
+            <Point id="1586">
+                <coordinates>1.817878100463224,41.583616133432294,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

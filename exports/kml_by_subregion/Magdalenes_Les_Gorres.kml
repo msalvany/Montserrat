@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1343">
+        <Style id="1346">
+            <IconStyle id="1347">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1348">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1349">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1352">
+            <IconStyle id="1353">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1354">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1355">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1358">
+            <IconStyle id="1359">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1360">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1361">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1364">
+            <IconStyle id="1365">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1366">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1367">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1370">
+            <IconStyle id="1371">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1372">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1373">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1376">
+            <IconStyle id="1377">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1378">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1379">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1382">
+            <IconStyle id="1383">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1384">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1385">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1388">
+            <IconStyle id="1389">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1390">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1391">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1394">
+            <IconStyle id="1395">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1396">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1397">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1400">
+            <IconStyle id="1401">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1402">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1403">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1406">
+            <IconStyle id="1407">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1408">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1409">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1412">
+            <IconStyle id="1413">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1414">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1415">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1418">
+            <IconStyle id="1419">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1420">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1421">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1424">
+            <IconStyle id="1425">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1426">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1427">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1430">
+            <IconStyle id="1431">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1432">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1433">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1436">
+            <IconStyle id="1437">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1438">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1439">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1442">
+            <IconStyle id="1443">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1444">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1445">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1448">
+            <IconStyle id="1449">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1450">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1451">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1454">
+            <IconStyle id="1455">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1456">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1457">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1460">
+            <IconStyle id="1461">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1462">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1463">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1466">
+            <IconStyle id="1467">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="1468">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="1469">
+                <color>ff2727d6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="1345">
+            <name>Agulla Alta de Sant Joan</name>
+            <description>Agulla situada en el serrat que està a ponent de la via del funicular de Sant Joan al damunt de l’agulla de Sant Joan.</description>
+            <styleUrl>#1346</styleUrl>
+            <Point id="1344">
+                <coordinates>1.834475253917785,41.59062198278642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1351">
+            <name>Agulla Baixa de Sant Joan</name>
+            <description>Al costat oest de la via del funicular de Sant Joan hi ha un petit serrat. Aquesta és l’agulla més inferior d’aquest serrat.</description>
+            <styleUrl>#1352</styleUrl>
+            <Point id="1350">
+                <coordinates>1.835087855094623,41.5912496810815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1357">
+            <name>Agulla de Sant Joan</name>
+            <description>Agulla situada en la petita carena paral·lela a ponent del traçat del funicular de Sant Joan.</description>
+            <styleUrl>#1358</styleUrl>
+            <Point id="1356">
+                <coordinates>1.83479427755405,41.59089542941724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1363">
+            <name>Bauma de Sant Martí</name>
+            <styleUrl>#1364</styleUrl>
+            <Point id="1362">
+                <coordinates>1.825551989850497,41.58912606127078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1369">
+            <name>Contrafort de la Miranda de Santa Magdalena</name>
+            <description>Aquesta agulla es troba formant coll al nord-est amb la Miranda de Santa Magdalena i al sud-est amb Miranda de Sant Joan o Miranda Xica.</description>
+            <styleUrl>#1370</styleUrl>
+            <Point id="1368">
+                <coordinates>1.825387250175197,41.586962677209506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1375">
+            <name>Cota 407</name>
+            <description>Al sud oest de la Gorra Marinera, hi ha aquesta gran roca. Algunes guies d’escalada moderna identifiquen aquesta roca com a Miranda de Sant Joan, denominació que pot generar alguna confessió en relació a la Miranda de Sant Joan o Miranda Xica que fou la denominació donada a la cota 409 de Josep Barberà.</description>
+            <styleUrl>#1376</styleUrl>
+            <Point id="1374">
+                <coordinates>1.827808802807145,41.58839249994543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1381">
+            <name>Cota 408</name>
+            <description>És l’agulla que té les ermites de Sant Joan i de Sant Onofre</description>
+            <styleUrl>#1382</styleUrl>
+            <Point id="1380">
+                <coordinates>1.827003073901471,41.58783484909782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1387">
+            <name>Cota 409 (Miranda de Sant Joan o Miranda Xica)</name>
+            <description>En Josep Barberà situa aquesta cota al peu del camí que venint de l’ermita de Sant Joan davalla a la Plantació en l’indret on hi ha el coll de Baix de la Miranda de Santa Magdalena . Situa la cota a l’esquerra d’aquest coll i esmenta que es de fàcil pujada. Comenta que Ramon de Semir feu servir aquesta cota de vèrtex geodèsic. En Jordi Oliver precisa una mica els noms de les dues cotes que formen aquest coll. La cota 409 és la Miranda de Santa Caterina i la roca que queda a la dreta, venint de l’ermita de Sant Joan, és la Miranda de Sant Joan que, com diu en Ramon Ribera, també s’anomena Miranda Xica. Altres guies de Montserrat aporten algun canvi de noms en relació aquestes cotes. En Josep Barberà a la Miranda de Sant Joan no li dóna cap número i la situa a la secció de Sant Pere.</description>
+            <styleUrl>#1388</styleUrl>
+            <Point id="1386">
+                <coordinates>1.825777452297684,41.58661538699036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1393">
+            <name>Cota 410</name>
+            <description>La cota 410 està situada damunt de la 411. La cota 411 es troba sobre la roca del Trencabarrals i a l’altra banda del camí.</description>
+            <styleUrl>#1394</styleUrl>
+            <Point id="1392">
+                <coordinates>1.826535221517405,41.59114468183185,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1399">
+            <name>Cota 411</name>
+            <description>La cota 411 es troba sobre la roca del Trencabarrals i a l’altra banda del camí. La cota 410 està situada damunt de la 411.</description>
+            <styleUrl>#1400</styleUrl>
+            <Point id="1398">
+                <coordinates>1.826990569272698,41.59117635026342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1405">
+            <name>Cota 413</name>
+            <description>Anant pel camí que va al Pla dels Ocells, des de Sant Joan, no massa lluny d’aquest pla i a l’esquerra del camí hi ha una roca que té una llarga aresta est. En una primera classificació en Josep Barberà situà aquesta agulla en la secció de Bellavista.</description>
+            <styleUrl>#1406</styleUrl>
+            <Point id="1404">
+                <coordinates>1.824521945464241,41.592997585948225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1411">
+            <name>Cota 495</name>
+            <description>Pel camí que va de l’estació superior de Sant Joan a Sant Jeroni, immediatament abans d’arribar a la cruïlla del camí que mena al Pla deis Ocells, hi ha una carena que davalla vers el NE. i que va a parar pròpiament al coll de la roca 495.</description>
+            <styleUrl>#1412</styleUrl>
+            <Point id="1410">
+                <coordinates>1.833152652024267,41.5907797004054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1417">
+            <name>la Gorra Marinera</name>
+            <description>Agulla veïna de la Magdalena Inferior i la més propera, dins del grup anomenat les Gorres, a l’estació del funicular de Sant Joan. Per la seva base passa el camí nou de Sant Jeroni. En aquesta roca es troba l’ermita de Sant Jaume. Anteriorment era anomenada com a roca de Sant Jaume.</description>
+            <styleUrl>#1418</styleUrl>
+            <Point id="1416">
+                <coordinates>1.828687657040228,41.58888784061413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1423">
+            <name>L’Ullall de les Magdalenes</name>
+            <description>Agulla al costat sud est de la Magdalena Superior.</description>
+            <styleUrl>#1424</styleUrl>
+            <Point id="1422">
+                <coordinates>1.826426344117757,41.58920704724484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1429">
+            <name>Mirador de la Plantació</name>
+            <description>Roquissar al peu de la Miranda de Santa Magdalena per on passa el camí que porta, des del camí de la Plantació al peu de la Gorra Frígia. Excel·lent mirador de tota la Plantació.</description>
+            <styleUrl>#1430</styleUrl>
+            <Point id="1428">
+                <coordinates>1.8246312432059,41.58697296433583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1435">
+            <name>Miranda de Santa Magdalena</name>
+            <description>Situada al sud de la Magdalena Superior, a la qual resta unida per un gran coll. En altre temps hi hagué dalt del cim d’aquesta roca l’ermita de Santa Magdalena traslladada després a un cota inferior. Per la banda sud una llarga carena descendeix vers el coll de la cota 409.</description>
+            <styleUrl>#1436</styleUrl>
+            <Point id="1434">
+                <coordinates>1.826542530720554,41.58809135453996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1441">
+            <name>Roca de la Gorra Frígia</name>
+            <description>Gran roca que domina el conjunt anomenat de les Gorres. El camí nou de Sant Joan a Sant Jeroni passa per sota d’aquesta roca.</description>
+            <styleUrl>#1442</styleUrl>
+            <Point id="1440">
+                <coordinates>1.82596815664241,41.589994992348345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1447">
+            <name>Roca de la Magdalena Inferior</name>
+            <description>Forma part del conjunt de les Magdalenes. Es troba en la part més sud est d’aquest grup i separada de la Gorra Marinera per les escales de Jacob. Està separada lleugerament del camí nou de Sant Jeroni.</description>
+            <styleUrl>#1448</styleUrl>
+            <Point id="1446">
+                <coordinates>1.827784588533661,41.589067784571114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1453">
+            <name>Roca de la Magdalena Superior</name>
+            <description>Gran roca situada al costat sud est de la Gorra Frígia.</description>
+            <styleUrl>#1454</styleUrl>
+            <Point id="1452">
+                <coordinates>1.826374937194531,41.589395671237874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1459">
+            <name>Roca de sobre l’estació superior del Funicular</name>
+            <description>És la primera de la carena que va vers les Gorres</description>
+            <styleUrl>#1460</styleUrl>
+            <Point id="1458">
+                <coordinates>1.829451983531058,41.588418250098634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1465">
+            <name>Trencabarrals</name>
+            <styleUrl>#1466</styleUrl>
+            <Point id="1464">
+                <coordinates>1.827434410746272,41.59118087827925,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3573">
+        <Style id="3576">
+            <IconStyle id="3577">
+                <color>ff7883b6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3578">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3579">
+                <color>ff7883b6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3582">
+            <IconStyle id="3583">
+                <color>ff7883b6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3584">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3585">
+                <color>ff7883b6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3588">
+            <IconStyle id="3589">
+                <color>ff7883b6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3590">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3591">
+                <color>ff7883b6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3594">
+            <IconStyle id="3595">
+                <color>ff7883b6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3596">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3597">
+                <color>ff7883b6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3600">
+            <IconStyle id="3601">
+                <color>ff7883b6</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3602">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3603">
+                <color>ff7883b6</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="3575">
+            <name>Roc Gros</name>
+            <description>Gran pedra que es troba al peu de la carretera de Monistrol al Monestir de Santa Maria. Cal baixar per la carretera passada la Colònia Puig i la Font dels Monjos, i després d’un tancat revolt i obac per una torrentera, conegut con el revolt de la paella, es troba aquest gran roca tocant a la pròpia carretera.</description>
+            <styleUrl>#3576</styleUrl>
+            <Point id="3574">
+                <coordinates>1.823302521874023,41.609927401893756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3581">
+            <name>Roca de la Nit</name>
+            <styleUrl>#3582</styleUrl>
+            <Point id="3580">
+                <coordinates>1.837047134010136,41.60641941929055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3587">
+            <name>Roca de Mitjarda</name>
+            <styleUrl>#3588</styleUrl>
+            <Point id="3586">
+                <coordinates>1.840227283726058,41.60173184462371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3593">
+            <name>Roca del Capvespre</name>
+            <description>Per damunt del camí de les Canals, a prop del torrent de l’Escuder i hi ha vàries roques espargides, la primera roca que es troba és la roca de la Mitja tarda per sota aquesta roca i en el mateix torrent de l’Escuder es troba la roca del Capvespre. Pròpiament són dues enganxades. Cal advertir que Josep Barberà, situa aquestes roques per sota del camí de les Canals.</description>
+            <styleUrl>#3594</styleUrl>
+            <Point id="3592">
+                <coordinates>1.840815978276475,41.60169274712965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3599">
+            <name>Roca Fantasma</name>
+            <description>Desprès de la cruïlla de carreteres, una que ve de can Maçana i l’altra de Monistrol, i a la seva unió per originar la carretera que va al Monestir de Santa Maria hi ha una cadena descendent a l’esquerra d’aquesta carretera. A la fi d’aquesta carena es troba aquesta roca.</description>
+            <styleUrl>#3600</styleUrl>
+            <Point id="3598">
+                <coordinates>1.83911714924284,41.59738823590516,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

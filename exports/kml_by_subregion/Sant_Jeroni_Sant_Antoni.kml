@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2879">
+        <Style id="2882">
+            <IconStyle id="2883">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2884">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2885">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2888">
+            <IconStyle id="2889">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2890">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2891">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2894">
+            <IconStyle id="2895">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2896">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2897">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2900">
+            <IconStyle id="2901">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2902">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2903">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2906">
+            <IconStyle id="2907">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2908">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2909">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2912">
+            <IconStyle id="2913">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2914">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2915">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2918">
+            <IconStyle id="2919">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2920">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2921">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2924">
+            <IconStyle id="2925">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2926">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2927">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2930">
+            <IconStyle id="2931">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2932">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2933">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2936">
+            <IconStyle id="2937">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2938">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2939">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2942">
+            <IconStyle id="2943">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2944">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2945">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2948">
+            <IconStyle id="2949">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2950">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2951">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2954">
+            <IconStyle id="2955">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2956">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2957">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2960">
+            <IconStyle id="2961">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2962">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2963">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2966">
+            <IconStyle id="2967">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2968">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2969">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2972">
+            <IconStyle id="2973">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2974">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2975">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2978">
+            <IconStyle id="2979">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2980">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2981">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2984">
+            <IconStyle id="2985">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2986">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2987">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2990">
+            <IconStyle id="2991">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2992">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2993">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2996">
+            <IconStyle id="2997">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2998">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2999">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3002">
+            <IconStyle id="3003">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3004">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3005">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3008">
+            <IconStyle id="3009">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3010">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3011">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3014">
+            <IconStyle id="3015">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3016">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3017">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3020">
+            <IconStyle id="3021">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3022">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3023">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3026">
+            <IconStyle id="3027">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3028">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3029">
+                <color>ffdeb3c9</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="2881">
+            <name>Agulla Migpartida</name>
+            <description>Es troba en el lloc de confluència de dos caminis: un que va cap al Cavall Bernat i l'altre al torrent de Santa Maria.</description>
+            <styleUrl>#2882</styleUrl>
+            <Point id="2880">
+                <coordinates>1.820850012362635,41.60027372331358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2887">
+            <name>El Montcau (Roca del Moro)</name>
+            <description>També és anomenada aquesta roca com la Roca del Moro o del Migdia. Un coll la uneix amb el Mirador del Moro.</description>
+            <styleUrl>#2888</styleUrl>
+            <Point id="2886">
+                <coordinates>1.815738362927397,41.603544782391204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2893">
+            <name>Ganivet dels Diables</name>
+            <description>Mole rocosa que es troba a la part Nord del serrat de les Onze al qual està unit per un coll</description>
+            <styleUrl>#2894</styleUrl>
+            <Point id="2892">
+                <coordinates>1.820495792121675,41.60325142770143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2899">
+            <name>La Barretina de Patriarques</name>
+            <description>Aquesta roca té un coll amb la roca 355.</description>
+            <styleUrl>#2900</styleUrl>
+            <Point id="2898">
+                <coordinates>1.817941225911197,41.601198598198216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2905">
+            <name>Merlet de sota l’Ermita de Sant Antoni</name>
+            <styleUrl>#2906</styleUrl>
+            <Point id="2904">
+                <coordinates>1.82103213468119,41.60081601530955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2911">
+            <name>Miranda de Sant Antoni</name>
+            <description>Anant pel camí que va des de l'ermita de Sant Antoni cap al Cavall Bernat, trobem com a última roca d'aquesta secció la Miranda de Sant Antoni.</description>
+            <styleUrl>#2912</styleUrl>
+            <Point id="2910">
+                <coordinates>1.821539961242967,41.60060505288566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2917">
+            <name>Parets dels Diables</name>
+            <description>Adossada a la part est de la roca de les Onze. Sún unes parets espectaculars i d'alçada impressionants.</description>
+            <styleUrl>#2918</styleUrl>
+            <Point id="2916">
+                <coordinates>1.820701179022322,41.60185744011343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2923">
+            <name>Roca 1 del Serrat del Patriarca</name>
+            <description>Aquesta roca està dedicada a Jaume Bonany i és la que té més alçada de tot el serrat del Patriarca</description>
+            <styleUrl>#2924</styleUrl>
+            <Point id="2922">
+                <coordinates>1.818798165299331,41.60290073482288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2929">
+            <name>Roca 2 del Serrat del Patriarca</name>
+            <description>Roca del Serrat del Patriarca</description>
+            <styleUrl>#2930</styleUrl>
+            <Point id="2928">
+                <coordinates>1.818625589960831,41.60249364356995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2935">
+            <name>Roca 3 del Serrat del Patriarca</name>
+            <description>Roca del Serrat del Patriarca</description>
+            <styleUrl>#2936</styleUrl>
+            <Point id="2934">
+                <coordinates>1.818723871794567,41.60236855469581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2941">
+            <name>Roca 332</name>
+            <description>Queda abocada a la canal del Moro i a la dreta de la roca 378 o Dent. Aquesta canal, a la seva capçalera, forma una mena de ferradura. El cim de la roca 332 forma com una boleta.</description>
+            <styleUrl>#2942</styleUrl>
+            <Point id="2940">
+                <coordinates>1.816606823642853,41.60330152849709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2947">
+            <name>Roca 349</name>
+            <styleUrl>#2948</styleUrl>
+            <Point id="2946">
+                <coordinates>1.820723179329823,41.60130823484846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2953">
+            <name>Roca 357</name>
+            <styleUrl>#2954</styleUrl>
+            <Point id="2952">
+                <coordinates>1.819747256689049,41.60086587980926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2959">
+            <name>Roca 4 del Serrat del Patriarca</name>
+            <description>Roca del Serrat del Patriarca</description>
+            <styleUrl>#2960</styleUrl>
+            <Point id="2958">
+                <coordinates>1.818611450914574,41.601953074469854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2965">
+            <name>Roca 5 del Serrat del Patriarca</name>
+            <description>Roca del Serrat del Patriarca</description>
+            <styleUrl>#2966</styleUrl>
+            <Point id="2964">
+                <coordinates>1.818472079005294,41.60169944425269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2971">
+            <name>Roca de la Paret de l’Aeri</name>
+            <styleUrl>#2972</styleUrl>
+            <Point id="2970">
+                <coordinates>1.816739938870473,41.60389736478218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2977">
+            <name>Roca de les Onze</name>
+            <description>És una de les roques grosses d'aquest sector, té grans parets per la canal dels Arítjols i per la part E es troba la impressionat paret dels Diables</description>
+            <styleUrl>#2978</styleUrl>
+            <Point id="2976">
+                <coordinates>1.820418975799414,41.601539297386594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2983">
+            <name>Roca del Cap de Mort</name>
+            <description>S'anomenava també la Calavera. Està al peu del camí que va a l'ermita de Sant Antoni . Aquesta roca forma un coll amb el serrat de les Onze.</description>
+            <styleUrl>#2984</styleUrl>
+            <Point id="2982">
+                <coordinates>1.819452244258531,41.600592638495186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2989">
+            <name>Roca del Ninot (Serrat del Duc)</name>
+            <description>És la darrera roca del serrat del Duc i veïna de la roca 361.</description>
+            <styleUrl>#2990</styleUrl>
+            <Point id="2988">
+                <coordinates>1.818594217252625,41.604871185246594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2995">
+            <name>Serrat del Duc (roca 361)</name>
+            <description>Petit serrat, d'alçada inferior i de reduïdes dimensions, al peu del serrat dels Patriarques i al costa de la canal del Moro. Les primeres roques del serrat son la 363-362 i després la 361que està més al nord.</description>
+            <styleUrl>#2996</styleUrl>
+            <Point id="2994">
+                <coordinates>1.818439226356441,41.60481554987795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3001">
+            <name>Serrat del Duc (roca 362)</name>
+            <description>Petit serrat, d'alçada inferior i de reduïdes dimensions, al peu del serrat dels Patriarques i al costa de la canal del Moro. Les primeres roques del serrat son la 363-362 i després la 361que està més al nord.</description>
+            <styleUrl>#3002</styleUrl>
+            <Point id="3000">
+                <coordinates>1.818336500996687,41.60452626803966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3007">
+            <name>Serrat del Duc (roca 362)</name>
+            <description>Petit serrat, d'alçada inferior i de reduïdes dimensions, al peu del serrat dels Patriarques i al costa de la canal del Moro. Les primeres roques del serrat son la 363-362 i després la 361que està més al nord.</description>
+            <styleUrl>#3008</styleUrl>
+            <Point id="3006">
+                <coordinates>1.818336500996687,41.60452626803966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3013">
+            <name>Serrat del Duc (roca 362)</name>
+            <description>Petit serrat, d'alçada inferior i de reduïdes dimensions, al peu del serrat dels Patriarques i al costa de la canal del Moro. Les primeres roques del serrat son la 363-362 i després la 361que està més al nord.</description>
+            <styleUrl>#3014</styleUrl>
+            <Point id="3012">
+                <coordinates>1.818332885810046,41.60472438618491,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3019">
+            <name>Serrat del Duc (roca 362)</name>
+            <description>Petit serrat, d'alçada inferior i de reduïdes dimensions, al peu del serrat dels Patriarques i al costa de la canal del Moro. Les primeres roques del serrat son la 363-362 i després la 361que està més al nord.</description>
+            <styleUrl>#3020</styleUrl>
+            <Point id="3018">
+                <coordinates>1.818332885810046,41.60472438618491,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3025">
+            <name>Serrat del Duc (roca 363)</name>
+            <description>Petit serrat, d'alçada inferior i de reduïdes dimensions, al peu del serrat dels Patriarques i al costa de la canal del Moro. Les primeres roques del serrat son la 363-362 i després la 361que està més al nord.</description>
+            <styleUrl>#3026</styleUrl>
+            <Point id="3024">
+                <coordinates>1.818300342218897,41.604534903393464,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

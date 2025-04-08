@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="7">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="10">
+            <IconStyle id="11">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="12">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="13">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="16">
+            <IconStyle id="17">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="18">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="19">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="22">
+            <IconStyle id="23">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="24">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="25">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="28">
+            <IconStyle id="29">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="30">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="31">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="34">
+            <IconStyle id="35">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="36">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="37">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="40">
+            <IconStyle id="41">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="42">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="43">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="46">
+            <IconStyle id="47">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="48">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="49">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="52">
+            <IconStyle id="53">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="54">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="55">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="58">
+            <IconStyle id="59">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="60">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="61">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="64">
+            <IconStyle id="65">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="66">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="67">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="70">
+            <IconStyle id="71">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="72">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="73">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="76">
+            <IconStyle id="77">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="78">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="79">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="82">
+            <IconStyle id="83">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="84">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="85">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="88">
+            <IconStyle id="89">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="90">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="91">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="94">
+            <IconStyle id="95">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="96">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="97">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="100">
+            <IconStyle id="101">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="102">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="103">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="106">
+            <IconStyle id="107">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="108">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="109">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="112">
+            <IconStyle id="113">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="114">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="115">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="118">
+            <IconStyle id="119">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="120">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="121">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="124">
+            <IconStyle id="125">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="126">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="127">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="130">
+            <IconStyle id="131">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="132">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="133">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="136">
+            <IconStyle id="137">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="138">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="139">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="142">
+            <IconStyle id="143">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="144">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="145">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="148">
+            <IconStyle id="149">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="150">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="151">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="154">
+            <IconStyle id="155">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="156">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="157">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="160">
+            <IconStyle id="161">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="162">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="163">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="166">
+            <IconStyle id="167">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="168">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="169">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="172">
+            <IconStyle id="173">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="174">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="175">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="178">
+            <IconStyle id="179">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="180">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="181">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="184">
+            <IconStyle id="185">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="186">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="187">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="190">
+            <IconStyle id="191">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="192">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="193">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="196">
+            <IconStyle id="197">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="198">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="199">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="202">
+            <IconStyle id="203">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="204">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="205">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="208">
+            <IconStyle id="209">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="210">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="211">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="214">
+            <IconStyle id="215">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="216">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="217">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="220">
+            <IconStyle id="221">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="222">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="223">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="226">
+            <IconStyle id="227">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="228">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="229">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="232">
+            <IconStyle id="233">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="234">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="235">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="238">
+            <IconStyle id="239">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="240">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="241">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="244">
+            <IconStyle id="245">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="246">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="247">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="250">
+            <IconStyle id="251">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="252">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="253">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="256">
+            <IconStyle id="257">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="258">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="259">
+                <color>ffb3761f</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="3">
+            <name>Agulla de l’Arbret</name>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>1.784121232242016,41.60975381954974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Agulla de l’Esquelet</name>
+            <styleUrl>#10</styleUrl>
+            <Point id="8">
+                <coordinates>1.784067004442901,41.60816800699888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Agulla del Capdamunt</name>
+            <description>Aquesta agulla es veïna a la Peluda i està situada en la part superior del conjunt d’agulles d’aquesta zona i és la que té més alçada, 1011 metres.</description>
+            <styleUrl>#16</styleUrl>
+            <Point id="14">
+                <coordinates>1.781944934548978,41.60805546968849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Agulla del Sol Ponent</name>
+            <description>El nom d’aquesta agulla prové pel fet de que les primeres persones que l’escalaren arribaren al cim quan es ponia el sol. Amb aquesta agulla i la propera, La Peluda, s’acaba la paret oest de la regió d’Agulles.</description>
+            <styleUrl>#22</styleUrl>
+            <Point id="20">
+                <coordinates>1.781399437371705,41.60770742051863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Agulla dels Espeleòlegs</name>
+            <description>L’agulla dels Espeleòlegs està disposada en paral·lel a l’agulla de la Bandereta i la Palangana.</description>
+            <styleUrl>#28</styleUrl>
+            <Point id="26">
+                <coordinates>1.78213129571493,41.60899417639816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Agulla dels Ossos</name>
+            <description>A continuació de l’agulla de l’Arbret es troba l’agulla dels Ossos. Per la seva posició no dóna pròpiament a la paret nord de la regió d’Agulles. Al seu peu hi ha torrent que determina el límit d’aquesta secció. El nom d’agulla dels Ossos, tal com indica</description>
+            <styleUrl>#34</styleUrl>
+            <Point id="32">
+                <coordinates>1.784384702309724,41.609783627250486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Agulla Mare</name>
+            <description>Aquest agulla, identificada amb el número 32 per Ramon de Semir, se la coneixia com una de les Momietes. És més alta que l’altra Momieta, l’Aglà. Està per sobre d'aquesta i al costat de la Miranda de les Boïgues</description>
+            <styleUrl>#40</styleUrl>
+            <Point id="38">
+                <coordinates>1.783069609663433,41.60759901567908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Agulla Pelada</name>
+            <description>Aquesta agulla està a continuació de la Portella inferior en sentit ascendent. Amb la Pelada pròpiament comença una petita serralada anomenada per alguns, tal com indica Josep Barberà, serrat de Sol Ponent</description>
+            <styleUrl>#46</styleUrl>
+            <Point id="44">
+                <coordinates>1.780837409523001,41.60696288363503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Agulla Peluda</name>
+            <description>Aquesta agulla continua la vessant oest de la regió d’Agulles. Per la seva morfologia i proximitat a l’agulla del Capdamunt els mapes topogràfics no es representen aquesta agulla. A la paret externa d’aquesta agulla, la que dóna a la vessant oest d’aquest</description>
+            <styleUrl>#52</styleUrl>
+            <Point id="50">
+                <coordinates>1.781729297861378,41.60803517041408,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>Agulla Petita</name>
+            <description>Agulla situada entre l'agulla Pelada i la Portella Petita. Es tracta de l'agulla identificada per Semir amb el número 19</description>
+            <styleUrl>#58</styleUrl>
+            <Point id="56">
+                <coordinates>1.780769997119267,41.60671897851932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Agulla Podrida</name>
+            <description>Seguint per la paret nord de la regió d’Agulles en direcció a l’est es troba l’agulla Podrida. Entre aquest agulla i el Ninet hi ha un ampli coll des d’on es dominen unes bones vistes d’aquesta zona.</description>
+            <styleUrl>#64</styleUrl>
+            <Point id="62">
+                <coordinates>1.783845594317979,41.609732889548035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>Contrafort de la Bessona</name>
+            <description>Roca situada com a contrafort de la Bessona superior</description>
+            <styleUrl>#70</styleUrl>
+            <Point id="68">
+                <coordinates>1.783935855028532,41.608761084268615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>El Carbassó</name>
+            <description>Es troba a l’Est de la Saca Gran i al damunt del Pedestal del Martell.</description>
+            <styleUrl>#76</styleUrl>
+            <Point id="74">
+                <coordinates>1.782875222562866,41.609002055828455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>El Dàtil</name>
+            <description>Aquesta agulla es troba al damunt mateix de torrent de les Boïgues o canal dels Cirerers i sota el Martell. Cal advertir que en algunes cartografies s’ha invertit la localització d’aquesta agulla amb la Roca de les Heures.</description>
+            <styleUrl>#82</styleUrl>
+            <Point id="80">
+                <coordinates>1.783226065426915,41.60885265050529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>El Gep Llarg</name>
+            <description>Situada al costat est dels Merlets amb la qual forma un petit collet.</description>
+            <styleUrl>#88</styleUrl>
+            <Point id="86">
+                <coordinates>1.781917578522257,41.60759582075426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>El Martell</name>
+            <description>Aquesta agulla es troba sota de la Saca Gran</description>
+            <styleUrl>#94</styleUrl>
+            <Point id="92">
+                <coordinates>1.782556842168124,41.608701451950594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>El Pingüí</name>
+            <description>Por sota de la Bessona superior i separada per un petit collet es troba el Pingüí.</description>
+            <styleUrl>#100</styleUrl>
+            <Point id="98">
+                <coordinates>1.784082377128373,41.60862752866406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>El Punyalet</name>
+            <description>És una petita agulla situada al nord de l'agulla Peluda</description>
+            <styleUrl>#106</styleUrl>
+            <Point id="104">
+                <coordinates>1.781785394181628,41.60824292684362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>El Sabre</name>
+            <description>Aquesta agulla es troba en la muralla occidental de la paret d’Agulles contraposada a l’agulla la Peluda de la qual està separada per un fissura que va obrint-se de baix cap a dalt.</description>
+            <styleUrl>#112</styleUrl>
+            <Point id="110">
+                <coordinates>1.781632292056366,41.60808818450869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>El Senatxo</name>
+            <description>Amb aquesta agulla ja comença clarament la paret nord de la regió d’Agulles. La part nord d’aquesta agulla té una alçada considerable mentre que per la vessant est té molt poc alçada. La part superior d'aquest agulla és plana</description>
+            <styleUrl>#118</styleUrl>
+            <Point id="116">
+                <coordinates>1.781972629697511,41.608497108097026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Els Merlets</name>
+            <description>Abans de continuar amb la paret Nord de la regió d’Agulles a la dreta de l’agulla de Sol Ponent, en direcció a l’Est,s’estenen una sèrie d’agulles. La primera d’elles són els Marlets.</description>
+            <styleUrl>#124</styleUrl>
+            <Point id="122">
+                <coordinates>1.781688928181191,41.60762942574733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>La Bandereta o Agulla Ven-Suri-Ven</name>
+            <description>Aquest agulla presenta una gran paret en la muralla nord-nord-est de la regió d’Agulles. Aquesta agulla té dos noms. L’agulla es deia, originalment, La Bandereta. Però la cordada Torras-Nubiola, al trobar escrit en el llibre de registre situat en el nom e</description>
+            <styleUrl>#130</styleUrl>
+            <Point id="128">
+                <coordinates>1.781954024031423,41.608848185465824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>La Bessona Inferior</name>
+            <description>Està situada a llevant de la Bessona Superior i separada per un petit collet.</description>
+            <styleUrl>#136</styleUrl>
+            <Point id="134">
+                <coordinates>1.784349218453222,41.60911673112082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>La Bessona Superior</name>
+            <description>Aquest agulla limita, per la seva part oest, amb la Filigrana i per l’est per un petit collet que la separa de la Bessona inferior. Per la seva forma, les dues Bessones, aporten una imatge característica a la zona de les agulles.</description>
+            <styleUrl>#142</styleUrl>
+            <Point id="140">
+                <coordinates>1.784074597850436,41.609041770197095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>La Boteruda</name>
+            <description>No confondre aquesta agulla amb una altra d’aquesta regió anomenada Boteruda del Gra. Aquest agulla està al costat est del Gep Llarg.</description>
+            <styleUrl>#148</styleUrl>
+            <Point id="146">
+                <coordinates>1.78210769225741,41.60769691262378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>La Figuereta</name>
+            <description>El nom d’aquesta agulla prové per una figuera que es troba al inici de la canal sota la gran llastra de la paret oest d’aquesta roca. La Figuereta és una agulla, alguns en diuen puro, que es troba en la part oest de la muralla nord-oest per sobre del Sena</description>
+            <styleUrl>#154</styleUrl>
+            <Point id="152">
+                <coordinates>1.781969919198404,41.60864119200239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>La Filigrana</name>
+            <description>Segons Josep Barberà per sota de l’agulla de l’Arbret i dels Ossos hi a un grup de roques situades al límit del canal del Cirerer (part alta del torrent de les Boïgues). La Filigrana és una agulla de proporcions petita. Tothom descriu aquesta agulla com l</description>
+            <styleUrl>#160</styleUrl>
+            <Point id="158">
+                <coordinates>1.783702803163758,41.609028829711825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>La Miranda dels Ossos</name>
+            <description>Aquesta agulla es troba en la part nord de l’anterior i està integrada en la paret nord d’Agulles. Al seu peu neix el torrent que limita aquesta secció.</description>
+            <styleUrl>#166</styleUrl>
+            <Point id="164">
+                <coordinates>1.784390614493733,41.610107943143944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>La Palangana</name>
+            <description>Aquest agulla forma l’angle que marca el gir de la paret oest de la regió d’Agulles cap la seva part nord. La Palangana està separada de la Bandereta per un petit collet,</description>
+            <styleUrl>#172</styleUrl>
+            <Point id="170">
+                <coordinates>1.781973955823174,41.6090645655962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>La Saca Gran</name>
+            <description>És l’agulla més destacada d’aquesta secció. El nom de Saca Gran prové de fa temps. Durant un temps s’anomenà agulla d’en Dionís en record al muntanyenc Dionís Artemendi (Barberà, 1977:43). En els dibuixos de Francesc Remart i Pere Pau Montany (1790) a la</description>
+            <styleUrl>#178</styleUrl>
+            <Point id="176">
+                <coordinates>1.782548883782137,41.60912469848869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>La Vespa</name>
+            <description>Aquest agulla es troba per sota la Bessona inferior de la qual està separada per un petit collet. Per l’Est limita amb la canal que baixa de la zona dels Ossos.</description>
+            <styleUrl>#184</styleUrl>
+            <Point id="182">
+                <coordinates>1.784355643390657,41.608774531565366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>L’Aglà</name>
+            <styleUrl>#190</styleUrl>
+            <Point id="188">
+                <coordinates>1.783062519299204,41.60733773641912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>Les Savines – SaViña Inferior</name>
+            <styleUrl>#196</styleUrl>
+            <Point id="194">
+                <coordinates>1.781084121552515,41.60724471828955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>Les Savines – SaViña superior</name>
+            <styleUrl>#202</styleUrl>
+            <Point id="200">
+                <coordinates>1.78108208728676,41.60735278120682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>Mirador de la Miranda de les Boïgues</name>
+            <description>Aquest agulla és més aviat un turó que es troba entre la Boteruda i la Miranda de les Boïgues.</description>
+            <styleUrl>#208</styleUrl>
+            <Point id="206">
+                <coordinates>1.782486905536478,41.60795312691912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>Miranda de les Boïgues</name>
+            <description>Aquesta agulla és característica d’aquesta zona perquè la seva forma i tamany domina aquesta secció. Es molt visible des del refugi Vicenç Barbé.</description>
+            <styleUrl>#214</styleUrl>
+            <Point id="212">
+                <coordinates>1.782610616697338,41.607756282282075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>Pedestal del Martell</name>
+            <description>Aquest agulla es troba al cantó est de l’agulla el Martell. Entre aquesta agulla i el Carbassó existeix una estreta canal.</description>
+            <styleUrl>#220</styleUrl>
+            <Point id="218">
+                <coordinates>1.78280966271014,41.6086590941474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>Portella Petita</name>
+            <description>Queda a la part nord del Pas de la Portella. El nom de Portella Inferior li ve perquè és més petita que la Portella gran que es troba al seu costat. No obstant, com diu Josep Barberà, el nom d’inferior és erroni perquè, en relació a l’alçada, la Portella</description>
+            <styleUrl>#226</styleUrl>
+            <Point id="224">
+                <coordinates>1.780645645880653,41.60631234262376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>Roca de les Heures</name>
+            <description>Està al capdamunt del torrent de les Boïgues i al costat del coll de la canal del Ninet,</description>
+            <styleUrl>#232</styleUrl>
+            <Point id="230">
+                <coordinates>1.783231802597102,41.6091859716779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>Roca del Cirerer</name>
+            <description>Està separada de la Filigrana en la seva part nord per un petit coll. A la banda de ponent es troba el torrent dels Cireres i a la part est es troba el Pingüí.</description>
+            <styleUrl>#238</styleUrl>
+            <Point id="236">
+                <coordinates>1.783626931889628,41.60859568898082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>Roca dels Cinc Passos</name>
+            <description>Està a l'est de la Roca del Cirerer</description>
+            <styleUrl>#244</styleUrl>
+            <Point id="242">
+                <coordinates>1.783833627617595,41.60781426350452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>Roca dels Puetons</name>
+            <description>Es tracta d’una roca situada damunt de l’avenc dels Puetons. Limita al nord amb la Vespa</description>
+            <styleUrl>#250</styleUrl>
+            <Point id="248">
+                <coordinates>1.784086613020271,41.60776289757615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>Roca Dolça</name>
+            <description>Agulla adohsada a l'agulla de l'Esquelet per la seva la vessant oest</description>
+            <styleUrl>#256</styleUrl>
+            <Point id="254">
+                <coordinates>1.783974397558068,41.60798688654909,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2541">
+        <Style id="2544">
+            <IconStyle id="2545">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2546">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2547">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2550">
+            <IconStyle id="2551">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2552">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2553">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2556">
+            <IconStyle id="2557">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2558">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2559">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2562">
+            <IconStyle id="2563">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2564">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2565">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2568">
+            <IconStyle id="2569">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2570">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2571">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2574">
+            <IconStyle id="2575">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2576">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2577">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2580">
+            <IconStyle id="2581">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2582">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2583">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2586">
+            <IconStyle id="2587">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2588">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2589">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2592">
+            <IconStyle id="2593">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2594">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2595">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2598">
+            <IconStyle id="2599">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2600">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2601">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2604">
+            <IconStyle id="2605">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2606">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2607">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2610">
+            <IconStyle id="2611">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2612">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2613">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2616">
+            <IconStyle id="2617">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2618">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2619">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2622">
+            <IconStyle id="2623">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2624">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2625">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2628">
+            <IconStyle id="2629">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2630">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2631">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2634">
+            <IconStyle id="2635">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2636">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2637">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2640">
+            <IconStyle id="2641">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2642">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2643">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2646">
+            <IconStyle id="2647">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2648">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2649">
+                <color>ffc3769e</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="2543">
+            <name>Agulla Ajaguda</name>
+            <description>És la roca més destacada i esvelta d’aquesta secció. Està en el coll del Bassal dels Gats o, segons algunes persoens coll de l'Ajaguda.  En Josep Barberà anomena aquest coll com a Muset tot i que aquest està en una altra part del massís.</description>
+            <styleUrl>#2544</styleUrl>
+            <Point id="2542">
+                <coordinates>1.80441037091146,41.59313244685365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2549">
+            <name>Agulla Ajaguda</name>
+            <description>És la roca més destacada i esvelta d’aquesta secció. Està en el coll del Bassal dels Gats o, segons algunes persoens coll de l'Ajaguda.  En Josep Barberà anomena aquest coll com a Muset tot i que aquest està en una altra part del massís.</description>
+            <styleUrl>#2550</styleUrl>
+            <Point id="2548">
+                <coordinates>1.80441037091146,41.59313244685365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2555">
+            <name>Agulla de Can Jorba</name>
+            <description>Agulla situada al marge esquerra del torrent del Migdia en la seva part alta on hi ha el Joc de l'Oca.</description>
+            <styleUrl>#2556</styleUrl>
+            <Point id="2554">
+                <coordinates>1.801991342311823,41.59223357671844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2561">
+            <name>Agulla de Can Jorba</name>
+            <description>Agulla situada al marge esquerra del torrent del Migdia en la seva part alta on hi ha el Joc de l'Oca.</description>
+            <styleUrl>#2562</styleUrl>
+            <Point id="2560">
+                <coordinates>1.801991342311823,41.59223357671844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2567">
+            <name>Agulla de l’Avenc</name>
+            <styleUrl>#2568</styleUrl>
+            <Point id="2566">
+                <coordinates>1.804267250254459,41.5930859229007,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2573">
+            <name>Agulla de l’Ocell Mort</name>
+            <styleUrl>#2574</styleUrl>
+            <Point id="2572">
+                <coordinates>1.803187280611551,41.59309269854388,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2579">
+            <name>Agulla del Jardí</name>
+            <description>Agulla propera al coll del Bassal dels Gats. Està situada al sud oest de la veïna agulla de l’Avenc.</description>
+            <styleUrl>#2580</styleUrl>
+            <Point id="2578">
+                <coordinates>1.8039713411967,41.59286667487622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2585">
+            <name>Agulla del Jardí</name>
+            <description>Agulla propera al coll del Bassal dels Gats. Està situada al sud oest de la veïna agulla de l’Avenc.</description>
+            <styleUrl>#2586</styleUrl>
+            <Point id="2584">
+                <coordinates>1.8039713411967,41.59286667487622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2591">
+            <name>Agulla del Pilot</name>
+            <description>Roca arrodonida situada a l'esquerra del senderó que puja pel torrent de la Coma d'en Pastor.</description>
+            <styleUrl>#2592</styleUrl>
+            <Point id="2590">
+                <coordinates>1.792826993637972,41.59147118310441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2597">
+            <name>Agulla del Pilot</name>
+            <description>Roca arrodonida situada a l'esquerra del senderó que puja pel torrent de la Coma d'en Pastor.</description>
+            <styleUrl>#2598</styleUrl>
+            <Point id="2596">
+                <coordinates>1.792826993637972,41.59147118310441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2603">
+            <name>Agulla del Saltet</name>
+            <description>Gran roca situada al final d’una petita carena iniciada en el coll del Bassal dels Gats. És veïna de l'agulla de l’Ocell Mort. Com indica el seu nom és pot saltar d'una roca a l'altra.</description>
+            <styleUrl>#2604</styleUrl>
+            <Point id="2602">
+                <coordinates>1.802958858086742,41.593117341420204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2609">
+            <name>Agulla del Saltet</name>
+            <description>Gran roca situada al final d’una petita carena iniciada en el coll del Bassal dels Gats. És veïna de l'agulla de l’Ocell Mort. Com indica el seu nom és pot saltar d'una roca a l'altra.</description>
+            <styleUrl>#2610</styleUrl>
+            <Point id="2608">
+                <coordinates>1.802958858086742,41.593117341420204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2615">
+            <name>Miranda de Can Jorba</name>
+            <description>Està al costa de l'agulla de Can Jorba a la qual està unida per un collet. No és més que un morro rocós d'aquesta agulla situada al marge esquerra del torrent del Migdia en la seva part alta on hi ha el Joc de l'Oca. Des d’aquesta miranda es té una bona panoràmica de la masia de can Jorba i les seves rodalies. La primera ascensió la feren JM Torras, JM Belenguer, A. Jané, Tomàs i J.Milà el 1 d emaig de 1968.</description>
+            <styleUrl>#2616</styleUrl>
+            <Point id="2614">
+                <coordinates>1.801986840208792,41.59182821156072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2621">
+            <name>Miranda de Can Jorba</name>
+            <description>Està al costa de l'agulla de Can Jorba a la qual està unida per un collet. No és més que un morro rocós d'aquesta agulla situada al marge esquerra del torrent del Migdia en la seva part alta on hi ha el Joc de l'Oca. Des d’aquesta miranda es té una bona panoràmica de la masia de can Jorba i les seves rodalies. La primera ascensió la feren JM Torras, JM Belenguer, A. Jané, Tomàs i J.Milà el 1 d emaig de 1968.</description>
+            <styleUrl>#2622</styleUrl>
+            <Point id="2620">
+                <coordinates>1.801986840208792,41.59182821156072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2627">
+            <name>Roca de la Castanyada</name>
+            <description>Agulla  solitària, fàcil de distinguir perquè emergeix en un petit serrat que es troba entre el clot del Boixar i el clot de l'Estevet.</description>
+            <styleUrl>#2628</styleUrl>
+            <Point id="2626">
+                <coordinates>1.792245312689736,41.59306833140926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2633">
+            <name>Roca de la Castanyada</name>
+            <description>Agulla  solitària, fàcil de distinguir perquè emergeix en un petit serrat que es troba entre el clot del Boixar i el clot de l'Estevet.</description>
+            <styleUrl>#2634</styleUrl>
+            <Point id="2632">
+                <coordinates>1.792245312689736,41.59306833140926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2639">
+            <name>Roca del Mur</name>
+            <styleUrl>#2640</styleUrl>
+            <Point id="2638">
+                <coordinates>1.801666292237136,41.59294174739994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2645">
+            <name>Serrat de la Palomera</name>
+            <styleUrl>#2646</styleUrl>
+            <Point id="2644">
+                <coordinates>1.799809577016303,41.59342677344843,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

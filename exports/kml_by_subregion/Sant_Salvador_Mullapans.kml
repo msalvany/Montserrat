@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3529">
+        <Style id="3532">
+            <IconStyle id="3533">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3534">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3535">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3538">
+            <IconStyle id="3539">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3540">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3541">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3544">
+            <IconStyle id="3545">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3546">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3547">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3550">
+            <IconStyle id="3551">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3552">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3553">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3556">
+            <IconStyle id="3557">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3558">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3559">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3562">
+            <IconStyle id="3563">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3564">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3565">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3568">
+            <IconStyle id="3569">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3570">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3571">
+                <color>ff6571ac</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="3531">
+            <name>Agulla del riu</name>
+            <description>Aquesta agulla també se li dona el nom de Petit Gat. Aquesta roca queda a la banda de baix del coll de la roca dels Corbs, a on hi ha el Cavall Pinteta.</description>
+            <styleUrl>#3532</styleUrl>
+            <Point id="3530">
+                <coordinates>1.843329737953969,41.59330545567727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3537">
+            <name>Cap del Gat – Tossal de Mullapans</name>
+            <description>Es un tossal ben destacable des de baix el riu Llobregat a sota de la roca dels Corbs. Té unes parets altíssimes per la cara sud est. En el seu extrem es troba una agulla coneguda amb el nom de Cap de Gat per extensió del nom d’una via d’escalada.</description>
+            <styleUrl>#3538</styleUrl>
+            <Point id="3536">
+                <coordinates>1.846774540745307,41.593907511186664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3543">
+            <name>Cavall Pinteta</name>
+            <description>Petita roca que està en el coll que es troba entre la cota 590 i la roca dels Corbs. Té uns 10 metres d’alçada i queda solitària en el mig del coll.</description>
+            <styleUrl>#3544</styleUrl>
+            <Point id="3542">
+                <coordinates>1.842488485789795,41.594053583316466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3549">
+            <name>Cota 590</name>
+            <description>Des de l’esplanada de l’aparcament de cotxes, es davalla per una carena entre roquissers formada per varis turons.</description>
+            <styleUrl>#3550</styleUrl>
+            <Point id="3548">
+                <coordinates>1.842236241346539,41.59406905734095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3555">
+            <name>La Trona – Dau del Monestir</name>
+            <description>Aquesta agulla, també anomenada Dau del Monestir, es una roca petita. Es troba al peu de la roca dels Corbs per la seva cara nord al costat del camí de la drecera de Monistro</description>
+            <styleUrl>#3556</styleUrl>
+            <Point id="3554">
+                <coordinates>1.844501888915828,41.59485745516927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3561">
+            <name>Roca de les aigues</name>
+            <description>s una roca que es troba a l’esquerra del camí de la drecera de Monistrol abans d’arribar a la caseta de les aigües.</description>
+            <styleUrl>#3562</styleUrl>
+            <Point id="3560">
+                <coordinates>1.846365352043525,41.59465099369665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3567">
+            <name>Roca dels Corbs</name>
+            <description>Es un gros roquissar situat al costat del coll a on hi ha el Cavall Pinteta. És un dels contraforts que hi han per sobre del riu Llobregat, pujant vers el Monestir.</description>
+            <styleUrl>#3568</styleUrl>
+            <Point id="3566">
+                <coordinates>1.844419893125561,41.59407301457104,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

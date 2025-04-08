@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="3031">
+        <Style id="3034">
+            <IconStyle id="3035">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3036">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3037">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3040">
+            <IconStyle id="3041">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3042">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3043">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3046">
+            <IconStyle id="3047">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3048">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3049">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3052">
+            <IconStyle id="3053">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3054">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3055">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3058">
+            <IconStyle id="3059">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3060">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3061">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3064">
+            <IconStyle id="3065">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3066">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3067">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3070">
+            <IconStyle id="3071">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3072">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3073">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3076">
+            <IconStyle id="3077">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3078">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3079">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3082">
+            <IconStyle id="3083">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3084">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3085">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3088">
+            <IconStyle id="3089">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3090">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3091">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3094">
+            <IconStyle id="3095">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3096">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3097">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3100">
+            <IconStyle id="3101">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3102">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3103">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3106">
+            <IconStyle id="3107">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3108">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3109">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3112">
+            <IconStyle id="3113">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3114">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3115">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3118">
+            <IconStyle id="3119">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3120">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3121">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3124">
+            <IconStyle id="3125">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3126">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3127">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3130">
+            <IconStyle id="3131">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3132">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3133">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3136">
+            <IconStyle id="3137">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3138">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3139">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3142">
+            <IconStyle id="3143">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3144">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3145">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3148">
+            <IconStyle id="3149">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3150">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3151">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3154">
+            <IconStyle id="3155">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3156">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3157">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3160">
+            <IconStyle id="3161">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3162">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3163">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3166">
+            <IconStyle id="3167">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3168">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3169">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="3172">
+            <IconStyle id="3173">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="3174">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3175">
+                <color>ffe4c2d4</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="3033">
+            <name>Boleta dels Plecs</name>
+            <description>Seguint avall el torrent del Migdia, més enllà de l'indret dels Plecs, veiem a la dreta i damunt el torrent aquesta torca d'asoecte arrodonit.</description>
+            <styleUrl>#3034</styleUrl>
+            <Point id="3032">
+                <coordinates>1.806641271153757,41.597082709549646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3039">
+            <name>Boleta dels Plecs</name>
+            <description>Seguint avall el torrent del Migdia, més enllà de l'indret dels Plecs, veiem a la dreta i damunt el torrent aquesta torca d'asoecte arrodonit.</description>
+            <styleUrl>#3040</styleUrl>
+            <Point id="3038">
+                <coordinates>1.806641271153757,41.597082709549646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3045">
+            <name>El Patufet</name>
+            <description>A la part sud d'una carena descendent dels Ecos, es troba aquesta roca.</description>
+            <styleUrl>#3046</styleUrl>
+            <Point id="3044">
+                <coordinates>1.805402095450322,41.60246506879671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3051">
+            <name>El Patufet</name>
+            <description>A la part sud d'una carena descendent dels Ecos, es troba aquesta roca.</description>
+            <styleUrl>#3052</styleUrl>
+            <Point id="3050">
+                <coordinates>1.805402095450322,41.60246506879671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3057">
+            <name>La Cajoleta</name>
+            <description>Es troba a la part oest de la Boleta dels Plecs i per damunt d'aquesta roca. Des del torrent del Migdia aquesta roca presenta una grandiosa paret sud i un gran balma.</description>
+            <styleUrl>#3058</styleUrl>
+            <Point id="3056">
+                <coordinates>1.806045539584309,41.59620283817721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3063">
+            <name>La Cajoleta</name>
+            <description>Es troba a la part oest de la Boleta dels Plecs i per damunt d'aquesta roca. Des del torrent del Migdia aquesta roca presenta una grandiosa paret sud i un gran balma.</description>
+            <styleUrl>#3064</styleUrl>
+            <Point id="3062">
+                <coordinates>1.806045539584309,41.59620283817721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3069">
+            <name>La Rampa de l’Esfinx</name>
+            <styleUrl>#3070</styleUrl>
+            <Point id="3068">
+                <coordinates>1.803899463298758,41.60000853045709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3075">
+            <name>La Salamandra</name>
+            <description>És una roca de les més esveltes de la secció del Montgròs té una impressionant aresta Brucs que recorda la cua d’una salamandra. S'escalà per primera vegada l'any 1936 per Puig i Galofré.</description>
+            <styleUrl>#3076</styleUrl>
+            <Point id="3074">
+                <coordinates>1.806608338743269,41.60212632262838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3081">
+            <name>La Salamandra</name>
+            <description>És una roca de les més esveltes de la secció del Montgròs té una impressionant aresta Brucs que recorda la cua d’una salamandra. S'escalà per primera vegada l'any 1936 per Puig i Galofré.</description>
+            <styleUrl>#3082</styleUrl>
+            <Point id="3080">
+                <coordinates>1.806608338743269,41.60212632262838,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3087">
+            <name>L’Esfinx del Montgròs</name>
+            <styleUrl>#3088</styleUrl>
+            <Point id="3086">
+                <coordinates>1.804279052701431,41.60024666307583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3093">
+            <name>Plec de Llibre Inferior</name>
+            <description>És l’agulla més extrema i baixa del conjunt que formen el Plec del Llibre. Està tocant a la canal del Migdia. La primera ascensió la feren J.Vendrell i J. Trullols el 18 de maig de 1952.</description>
+            <styleUrl>#3094</styleUrl>
+            <Point id="3092">
+                <coordinates>1.806221313927443,41.5983843735934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3099">
+            <name>Plec de Llibre Inferior</name>
+            <description>És l’agulla més extrema i baixa del conjunt que formen el Plec del Llibre. Està tocant a la canal del Migdia. La primera ascensió la feren J.Vendrell i J. Trullols el 18 de maig de 1952.</description>
+            <styleUrl>#3100</styleUrl>
+            <Point id="3098">
+                <coordinates>1.806221313927443,41.5983843735934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3105">
+            <name>Plec de Llibre Superior</name>
+            <description>Al final de la carena de roques que formen el Plec del Llibre es troba l'altiva torre del Plec Superior que domina el torrent del Migdia. La primera ascensió es feu el 13 juliol de 1942 per Carles Balaguer, Pere Bosquets, L. Balaguer i J.Tarragó.</description>
+            <styleUrl>#3106</styleUrl>
+            <Point id="3104">
+                <coordinates>1.806020851684565,41.59819314330438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3111">
+            <name>Plec de Llibre Superior</name>
+            <description>Al final de la carena de roques que formen el Plec del Llibre es troba l'altiva torre del Plec Superior que domina el torrent del Migdia. La primera ascensió es feu el 13 juliol de 1942 per Carles Balaguer, Pere Bosquets, L. Balaguer i J.Tarragó.</description>
+            <styleUrl>#3112</styleUrl>
+            <Point id="3110">
+                <coordinates>1.806020851684565,41.59819314330438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3117">
+            <name>Roca d’en Farrey</name>
+            <styleUrl>#3118</styleUrl>
+            <Point id="3116">
+                <coordinates>1.805800959939306,41.59645249552411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3123">
+            <name>Roca Plana dels Llamps</name>
+            <description>És tracta d'una roca d'una gran esveltesa per tots els costats. Té una paret sud-est realment impressionant per raó de la gran quantitat de balmes que presenta. Anys enrere fou anomenada Gran Fatxa i avui se la coneix també pel Cap del Montgròs. Josep Barberà considera que ha de prevaldre el nom de roca Plana dels Llamps perquè és més antic. És uns dels monòlits de referència i un dels més antics escalats a Montserrat. La seva primera ascensió data de 1924. Rep el seu nom perquè  la seva important cara est, tota vertical, està plena d’enormes fissures com si haguessin estat fetes pels impactes dels llamps.</description>
+            <styleUrl>#3124</styleUrl>
+            <Point id="3122">
+                <coordinates>1.804810321609242,41.60136906343426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3129">
+            <name>Roca Plana dels Llamps</name>
+            <description>És tracta d'una roca d'una gran esveltesa per tots els costats. Té una paret sud-est realment impressionant per raó de la gran quantitat de balmes que presenta. Anys enrere fou anomenada Gran Fatxa i avui se la coneix també pel Cap del Montgròs. Josep Barberà considera que ha de prevaldre el nom de roca Plana dels Llamps perquè és més antic. És uns dels monòlits de referència i un dels més antics escalats a Montserrat. La seva primera ascensió data de 1924. Rep el seu nom perquè  la seva important cara est, tota vertical, està plena d’enormes fissures com si haguessin estat fetes pels impactes dels llamps.</description>
+            <styleUrl>#3130</styleUrl>
+            <Point id="3128">
+                <coordinates>1.804810321609242,41.60136906343426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3135">
+            <name>Roques del Plecs del Llibre</name>
+            <styleUrl>#3136</styleUrl>
+            <Point id="3134">
+                <coordinates>1.805585143093555,41.59839577943378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3141">
+            <name>Roques del Plecs del Llibre</name>
+            <styleUrl>#3142</styleUrl>
+            <Point id="3140">
+                <coordinates>1.805341882003076,41.598573392876546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3147">
+            <name>Roques del Plecs del Llibre</name>
+            <styleUrl>#3148</styleUrl>
+            <Point id="3146">
+                <coordinates>1.805840067723405,41.598236300758494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3153">
+            <name>Turó del Montgròs</name>
+            <description>Enorme turó, d'aparença semblant a un gran massís, situat al bell mig de la muntanya de Montserrat. El cim del turó és molt planer i de grans dimensions. Com diu David Hita aquest cim convida al descans i la contemplació. El Montgròs, per la seva situació i alçària domina pràcticament tota la muntanya. Des del cim el panorama és realment majestuós. L’ascensió normal al cim la feu un grup de persones l’any 1880 sota la direcció de Cèsar August Torras.</description>
+            <styleUrl>#3154</styleUrl>
+            <Point id="3152">
+                <coordinates>1.805112016564131,41.599976105496175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3159">
+            <name>Turó del Montgròs</name>
+            <description>Enorme turó, d'aparença semblant a un gran massís, situat al bell mig de la muntanya de Montserrat. El cim del turó és molt planer i de grans dimensions. Com diu David Hita aquest cim convida al descans i la contemplació. El Montgròs, per la seva situació i alçària domina pràcticament tota la muntanya. Des del cim el panorama és realment majestuós. L’ascensió normal al cim la feu un grup de persones l’any 1880 sota la direcció de Cèsar August Torras.</description>
+            <styleUrl>#3160</styleUrl>
+            <Point id="3158">
+                <coordinates>1.805112016564131,41.599976105496175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3165">
+            <name>Veina a la dreta de la Salamandra</name>
+            <styleUrl>#3166</styleUrl>
+            <Point id="3164">
+                <coordinates>1.8071275553162,41.60195157058554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3171">
+            <name>Veina de l’esquerra de la Salamandra</name>
+            <styleUrl>#3172</styleUrl>
+            <Point id="3170">
+                <coordinates>1.806437052268008,41.602304685438234,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

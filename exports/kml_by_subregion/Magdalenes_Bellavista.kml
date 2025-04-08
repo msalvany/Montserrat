@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2263">
+        <Style id="2266">
+            <IconStyle id="2267">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2268">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2269">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2272">
+            <IconStyle id="2273">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2274">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2275">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2278">
+            <IconStyle id="2279">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2280">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2281">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2284">
+            <IconStyle id="2285">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2286">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2287">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2290">
+            <IconStyle id="2291">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2292">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2293">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2296">
+            <IconStyle id="2297">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2298">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2299">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2302">
+            <IconStyle id="2303">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2304">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2305">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2308">
+            <IconStyle id="2309">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2310">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2311">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2314">
+            <IconStyle id="2315">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2316">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2317">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2320">
+            <IconStyle id="2321">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2322">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2323">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2326">
+            <IconStyle id="2327">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2328">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2329">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2332">
+            <IconStyle id="2333">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2334">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2335">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2338">
+            <IconStyle id="2339">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2340">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2341">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2344">
+            <IconStyle id="2345">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2346">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2347">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="2350">
+            <IconStyle id="2351">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1.2</scale>
+                <heading>0</heading>
+                <Icon id="2352">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="2353">
+                <color>ffbebdf3</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="2265">
+            <name>Cara de Mico</name>
+            <description>Aquesta agulla es veïna per l'oest de la cota 414 i queda per sota de la cara nord de la Gorra Frígia, a la qual està unida per un coll molt pronunciat. Per la part oest s'aboca al torrent de l'Artiga Alta i ofereix una magnífica vista sobre la roca del Sentinella. El nom li ve donat per la fisonomia simiesca que presenta la seva cara est. En algunes descripcions també se la identifica com agulla del Mirador.</description>
+            <styleUrl>#2266</styleUrl>
+            <Point id="2264">
+                <coordinates>1.824666832870264,41.59096346708425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2271">
+            <name>Cota 414</name>
+            <description>Queda ja al final de la llarga carena de la Serra de Bellavista, aquí nomenada Serra de les Paparres. Aquesta cota, junt amb la Cara de Mico, a la qual es veïna pel sud est, s’uneixen a l'altívola Gorra Frígia. Es un turó arrodonit que les seves vessants nord cauen sobre el camí nou de Sant Jeroni.</description>
+            <styleUrl>#2272</styleUrl>
+            <Point id="2270">
+                <coordinates>1.824955545483557,41.59092138311134,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2277">
+            <name>El Rave</name>
+            <description>Estranya agulla que té una forma ben singular per tractar-se d'una gran roca sobre una estreta base. Aquesta roca està a l’est del coll dels Pollegons, a continuació de la roca de la Campana, de la qual és pràcticament veïna. Constitueix una de les roques més interessants per als escaladors, a causa de la seva colossal balma o sostre.</description>
+            <styleUrl>#2278</styleUrl>
+            <Point id="2276">
+                <coordinates>1.821567531279155,41.59117492917171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2283">
+            <name>El Sentinella</name>
+            <description>Curiosa agulla. S’aixeca com un torre cap el cel. Queda a la part sud de la Serra de les Paparres, per tant sota aquest serrat. Està formada per dues agulles unides per la base: el Sentinella, que és la més alta, i al seu costat hi una agulla esvelta anomenada el Fusell.</description>
+            <styleUrl>#2284</styleUrl>
+            <Point id="2282">
+                <coordinates>1.823497366630967,41.59127575943612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2289">
+            <name>La Campana</name>
+            <description>Aquesta roca està situada a la part esquerra del coll dels Pollegons baixant pel Serrat de Bellavista. És veïna del Rave.</description>
+            <styleUrl>#2290</styleUrl>
+            <Point id="2288">
+                <coordinates>1.821801058154635,41.591528598968374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2295">
+            <name>Miranda de la Campana</name>
+            <description>Gran roca situada al nord de la Campana. No està citada per en Josep Barberà.</description>
+            <styleUrl>#2296</styleUrl>
+            <Point id="2294">
+                <coordinates>1.821999255051445,41.59184587792601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2301">
+            <name>Miranda del Rave</name>
+            <description>Mirador situat al costat del camí de les Artigues quan s'enfila cap el camí nou de Sant Jeroni. No està citada per en Josep Barberà.</description>
+            <styleUrl>#2302</styleUrl>
+            <Point id="2300">
+                <coordinates>1.821483271191537,41.59184959642383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2307">
+            <name>Miranda dels Pollegons</name>
+            <description>Es tracta d'un parell de roques situades per sota el camí del Pont per damunt d’una petita coma on hi ha la capçalera dels torrents que davallen cap a la Vinya Nova.</description>
+            <styleUrl>#2308</styleUrl>
+            <Point id="2306">
+                <coordinates>1.817152916047258,41.595083696704336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2313">
+            <name>Roca de la Paparra</name>
+            <description>Queda per sota de la serra de les Paparres, en direcció sud i propera a l'agulla del Sentinella. Està al costat de la roca anomenada Cara de Mico per la seva cara nord. És una gran roca com un merlet.</description>
+            <styleUrl>#2314</styleUrl>
+            <Point id="2312">
+                <coordinates>1.824744921653681,41.59128852040116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2319">
+            <name>Roca veïna del Rave</name>
+            <description>Roca situada a la part nord del Rave amb la qual està unida per un coll.</description>
+            <styleUrl>#2320</styleUrl>
+            <Point id="2318">
+                <coordinates>1.821649535651394,41.59128385473994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2325">
+            <name>Serrat de Bellavista 1</name>
+            <description>El serrat de Bellavista és un conjunt de roques que uneixen el conjunt de les Magdalenes o Gorres amb el de l'Albarda Castellana i Sant Jeroni. Per la seva situació separa les vessants dels torrents del Pont i Vall Mal o Santa Maria. Tota aquesta sèrie de turons que està format el Serrat de Bellavista son un magnífic mirador sobre la vessant del Bruc del massís.</description>
+            <styleUrl>#2326</styleUrl>
+            <Point id="2324">
+                <coordinates>1.822028207608928,41.59487255277005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2331">
+            <name>Serrat de Bellavista 2</name>
+            <description>El serrat de Bellavista és un conjunt de roques que uneixen el conjunt de les Magdalenes o Gorres amb el de l'Albarda Castellana i Sant Jeroni. Per la seva situació separa les vessants dels torrents del Pont i Vall Mal o Santa Maria. Tota aquesta sèrie de turons que està format el Serrat de Bellavista son un magnífic mirador sobre la vessant del Bruc del massís.</description>
+            <styleUrl>#2332</styleUrl>
+            <Point id="2330">
+                <coordinates>1.821780254263842,41.59531135837298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2337">
+            <name>Serrat de Bellavista 3</name>
+            <description>El serrat de Bellavista és un conjunt de roques que uneixen el conjunt de les Magdalenes o Gorres amb el de l'Albarda Castellana i Sant Jeroni. Per la seva situació separa les vessants dels torrents del Pont i Vall Mal o Santa Maria. Tota aquesta sèrie de turons que està format el Serrat de Bellavista son un magnífic mirador sobre la vessant del Bruc del massís.</description>
+            <styleUrl>#2338</styleUrl>
+            <Point id="2336">
+                <coordinates>1.821306493513054,41.595630756351795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2343">
+            <name>Serrat de Bellavista 4</name>
+            <description>El serrat de Bellavista és un conjunt de roques que uneixen el conjunt de les Magdalenes o Gorres amb el de l'Albarda Castellana i Sant Jeroni. Per la seva situació separa les vessants dels torrents del Pont i Vall Mal o Santa Maria. Tota aquesta sèrie de turons que està format el Serrat de Bellavista son un magnífic mirador sobre la vessant del Bruc del massís.</description>
+            <styleUrl>#2344</styleUrl>
+            <Point id="2342">
+                <coordinates>1.821020247850554,41.59619526662813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2349">
+            <name>Serrat de Bellavista 5</name>
+            <description>El serrat de Bellavista és un conjunt de roques que uneixen el conjunt de les Magdalenes o Gorres amb el de l'Albarda Castellana i Sant Jeroni. Per la seva situació separa les vessants dels torrents del Pont i Vall Mal o Santa Maria. Tota aquesta sèrie de turons que està format el Serrat de Bellavista son un magnífic mirador sobre la vessant del Bruc del massís.</description>
+            <styleUrl>#2350</styleUrl>
+            <Point id="2348">
+                <coordinates>1.820613701965882,41.59677655610821,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
