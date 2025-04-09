@@ -58,34 +58,46 @@ else:
     print("✅ All agulles fall within expected Montserrat boundaries.")
 
 # -----------------------------
-# 5. Create KML File
+# 5. Create KML File (Web Safe for Google Earth Web)
 # -----------------------------
-print("🗂️ Creating KML...")
+print("🗂️ Creating KML (Google Earth Web safe)...")
 kml = simplekml.Kml()
 folders = {}
+
+# Region → public KML icon URL
+REGION_ICON_URLS = {
+    "Agulles": "http://maps.google.com/mapfiles/kml/paddle/red-circle.png",
+    "Frares Encantats": "http://maps.google.com/mapfiles/kml/paddle/blu-circle.png",
+    "Ecos": "http://maps.google.com/mapfiles/kml/paddle/grn-circle.png",
+    "Sant Jeroni": "http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png",
+    "Magdalenes": "http://maps.google.com/mapfiles/kml/paddle/purple-circle.png",
+    "Sant Salvador": "http://maps.google.com/mapfiles/kml/paddle/orange-circle.png",
+    "Unknown": "http://maps.google.com/mapfiles/kml/paddle/wht-circle.png"
+}
 
 for (region, subregion), group in df.groupby(["Region", "Subregion"]):
     if region not in folders:
         folders[region] = kml.newfolder(name=region)
     subfolder = folders[region].newfolder(name=subregion)
 
+    icon_url = REGION_ICON_URLS.get(region, REGION_ICON_URLS["Unknown"])
+
     for _, row in group.iterrows():
         pnt = subfolder.newpoint()
         pnt.name = ""  # Don't show label
         pnt.coords = [(row["Longitude"], row["Latitude"])]
         pnt.description = f"<b>{row['Name']} ({region} - {subregion})</b><br>{row.get('Description', '') or ''}"
-        pnt.style.iconstyle.color = get_kml_color(region)
-        pnt.style.iconstyle.scale = 1.3
-        pnt.style.iconstyle.icon.href = "kml_assets/placemark_circle.png"  # just the filename!
+        pnt.style.iconstyle.icon.href = icon_url
+        pnt.style.iconstyle.scale = 1.1
 
-kml.save("output/montserrat_cleaned.kml")
-print("✅ KML saved as output/montserrat_cleaned.kml")
+kml.save("output/montserrat_web_safe.kml")
+print("✅ KML saved as output/montserrat_web_safe.kml")
 
 # -----------------------------
 # 6. Save Clean CSV
 # -----------------------------
-df.to_csv("data/agulles_cleaned.csv", index=False)
-print("💾 Clean CSV saved as data/agulles_cleaned.csv")
+df.to_csv("data/agulles_full_data_cleaned.csv", index=False)
+print("💾 Clean CSV saved as data/agulles_full_data_cleaned.csv")
 
 # -----------------------------
 # 7. Final Report
