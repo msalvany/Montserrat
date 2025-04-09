@@ -1,16 +1,17 @@
 import pandas as pd
 
-# Load the CSV properly
+# Load the CSV
 df = pd.read_csv("data/agulles_full_data.csv")
 
-# -----------------------------
-# 4. Check for NaN values in the "Region" column
-nan_regions = df[df["Region"].isna()]
+df_deduped = df.drop_duplicates(subset="Name", keep="first")
+df_deduped.to_csv("data/agulles_no_duplicates.csv", index=False)
+print("✅ Saved deduplicated file.")
+# Check for duplicates by Name
+duplicates = df[df.duplicated(subset="Name", keep=False)].sort_values("Name")
 
-# Print the rows with NaN values in the Region column
-print("Rows with NaN in 'Region':")
-print(nan_regions)
-
-# Alternatively, count the NaN values
-nan_count = df["Region"].isna().sum()
-print(f"\nTotal NaN values in 'Region' column: {nan_count}")
+if not duplicates.empty:
+    print("❗ Found duplicated agulles by name:\n")
+    print(duplicates[["Name", "Subregion", "Region", "Easting", "Northing"]])
+    print(f"\n🔁 Total duplicates: {duplicates['Name'].nunique()} unique names")
+else:
+    print("✅ No duplicated agulles found.")

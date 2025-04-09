@@ -37,7 +37,7 @@ slug_to_subregion = {
     "seccio-ix-naps": "Naps",
     "seccio-x-roca-roja": "Roca Roja",
     "seccio-xi-palomera": "Palomera",
-    "seccio-xii-faro": "Faró",
+    "seccio-xii-faro": "Faraó",
     "seccio-xiii-montgros-2": "Montgròs",
     "seccio-xiv-ecos": "Ecos",
     "seccio-xv-sant-jeroni": "Sant Jeroni",
@@ -61,8 +61,8 @@ slug_to_subregion = {
     "seccio-xxxiv-flautats": "Flautats",
     "seccio-xxxv-cavall-bernat": "Cavall Bernat",
     "seccio-x": "Roca Roja",
-    "seccio-12-faro": "Faró",
-    "seccio-de-boirafua-1": "De Boirafua 1",
+    "seccio-12-faro": "Faraó",
+    "seccio-de-boirafua-1": "Boirafua",
     "seccio-xxiii": "Sant Pere",
     "seccio-xxxii": "Mullapans",
     "seccio-xxvii": "Serrat dels Monjos"
@@ -82,7 +82,7 @@ subregion_to_region = {
     "Naps": "Ecos",
     "Roca Roja": "Ecos",
     "Palomera": "Sant Jeroni",
-    "Faró": "Sant Jeroni",
+    "Faraó": "Sant Jeroni",
     "Montgròs": "Sant Jeroni",
     "Ecos": "Sant Jeroni",
     "Sant Jeroni": "Sant Jeroni",
@@ -105,7 +105,7 @@ subregion_to_region = {
     "Torrent Escuder": "Sant Salvador",
     "Flautats": "Sant Salvador",
     "Cavall Bernat": "Sant Salvador",
-    "De Boirafua 1": "Sant Salvador"
+    "Boirafua": "Magdalenes"
 }
 
 # We can now use it in our scraping loop
